@@ -1,0 +1,3 @@
+§a  §lFriends@§a  §l朋友
+§e  §lParty@§e  §l隊伍
+§b§l  Guild@§b§l  公會

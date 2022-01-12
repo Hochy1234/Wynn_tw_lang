@@ -1,0 +1,218 @@
+§7[1/1] §2Scavenger Hunt Collector: §aSelling tickets! Get your Scavenger Hunt tickets here!@§7[1/1] §2Организатор Охоты за Сокровищами: §aПродажа билетов! Покупайте свой билет на Охоту за Сокровищами здесь!
+§7[1/7] §2Scavenger Hunt Collector: §aTickets for sale! You! Would you like to join the great Siegfried Scavenger Hunt?@§7[1/7] §2Организатор Охоты за Сокровищами: §aБилеты в продаже! Ты! Хочешь присоединиться к великой Охоте за Сокровищами Зигфрида?
+§7[2/7] §2Scavenger Hunt Collector: §aEntry is completely free, and if you win, you'll get to adventure with Siegfried himself!@§7[2/7] §2Организатор Охоты за Сокровищами: §aВход совершенно бесплатный, и если ты выиграешь, то попадешь в приключение с самим Зигфридом!
+§7[3/7] §2Scavenger Hunt Collector: §aYou're interested? Great! Here, it's all quite simple.@§7[3/7] §2Организатор Охоты за Сокровищами: §aТебе это интересно? Отлично! Здесь все довольно просто.
+§7[4/7] §2Scavenger Hunt Collector: §aThe ticket shows what items you need to find. It's split into three tiers.@§7[4/7] §2Организатор Охоты за Сокровищами: §aНа билете написано, какие предметы тебе нужно найти. Они разделены на три уровня.
+§7[5/7] §2Scavenger Hunt Collector: §aThe first two, they're for the common folk. But if you REALLY want to win, you need a tier 3 item.@§7[5/7] §2Организатор Охоты за Сокровищами: §aПервые два, они для простых участников. Но если ты ДЕЙСТВИТЕЛЬНО хочешь выиграть, тебе нужен предмет 3 уровня.
+§7[6/7] §2Scavenger Hunt Collector: §aHeh, you can even §bbring all three§a and you're practically guaranteed to win!@§7[6/7] §2Организатор Охоты за Сокровищами: §aХех, можешь даже §bпринести все три§a, и ты практически гарантированно выиграешь!
+§7[7/7] §2Scavenger Hunt Collector: §aHere, take the ticket. §bCome back with your items §aand you'll be entered into the draw.@§7[7/7] §2Организатор Охоты за Сокровищами: §aВот, возьми билет. §bВернись со своими предметами§a и будешь включен в розыгрыш.
+§7[1/1] §2Excited Fan: §aI've been saving up for this scavenger hunt all year, there's no way I can lose!@§7[1/1] §2Взволнованный Фанат: §aЯ копил деньги на эту охоту за сокровищами весь год, я ни за что не могу проиграть!
+§7[1/3] §2Scavenger Hunt Participant: §aHmm.. I wonder if there's any tier 3 items here.@§7[1/3] §2Участник Охоты за Сокровищами: §aХм... Интересно, есть ли здесь какие-нибудь предметы 3 уровня?
+§7[2/3] §2Scavenger Hunt Participant: §aAHA! HIS MUG!@§7[2/3] §2Участник Охоты за Сокровищами: §aАГА! ЕГО КРУЖКА!
+§7[3/3] §2Scavenger Hunt Participant: §a...It's§a expensive though. Oh well, it's worth it for a chance to adventure with Siegfried!@§7[3/3] §2Участник Охоты за Сокровищами: §a...Хотя она очень дорогая. Ну что ж, это стоит того, чтобы рискнуть выиграть приключение с Зигфридом!
+§7[1/6] §2Scavenger Hunt Collector: §aYou're back! Let me see your items.@§7[1/6] §2Организатор Охоты за Сокровищами: §aТы вернулся! Позволь мне посмотреть твои предметы.
+§7[2/6] §2Scavenger Hunt Collector: §aThis.. all of them? Let me take a look at these...@§7[2/6] §2Организатор Охоты за Сокровищами: §aЭто... все они? Позволь мне взглянуть на них...
+§7[3/6] §2Scavenger Hunt Collector: §aThey're all authentic! You must be ri-I mean, you must be a huge fan of Siegfried!@§7[3/6] §2Организатор Охоты за Сокровищами: §aОни все подлинные! Ты должно быть очень бог- Всмысле очень большой фанат Зигфрида!
+§7[4/6] §2Scavenger Hunt Collector: §aGive me a moment here...@§7[4/6] §2Организатор Охоты за Сокровищами: §aДай-ка мне минутку...
+§7[5/6] §2Scavenger Hunt Collector: §aOkay, I've entered you into the draw. The event's taking place at the §bGolden Eagle Theatre§a.@§7[5/6] §2Организатор Охоты за Сокровищами: §aХорошо, я внес тебя в розыгрыш. Он будет проходить в §bТеатре Золотого Орла§a.
+§7[6/6] §2Scavenger Hunt Collector: §aJust turn §btoward the bank and follow the signs§a, the winner will be selected when everyone gets there.@§7[6/6] §2Организатор Охоты за Сокровищами: §aПросто поверни §bв сторону банка и следуй указателям§a, победитель будет выбран, когда все доберутся туда.
+§7[1/1] §2Siegfried Agent: §aParticipating in the Siegfried Scavenger Hunt? If you are, the theatre's right behind me.@§7[1/1] §2Агент Зигфрида: §aУчаствуешь в Охоте за Сокровищами Зигфрида? Если да, то театр прямо позади меня.
+§7[1/14] §2Announcer: §aWelcome, welcome everyone! We're only waiting on a few more people before we begin.@§7[1/14] §2Ведущий: §aЗдраствуйте, и добро пожаловать! Мы ждем еще нескольких человек, прежде чем начнем.
+§7[2/14] §2Announcer: §aAh, there we go! I believe we're all set now.@§7[2/14] §2Ведущий: §aА, вот и они! Думаю, теперь все готово.
+§7[3/14] §2Announcer: §aWelcome everyone, to the monthly §a§lSIEGFRIED FESTIVAL SCAVENGER HUNT§a!@§7[3/14] §2Ведущий: §aПриветствую всех на ежемесячной §a§lОХОТЕ ЗА СОКРОВИЩАМИ ЗИГФРИДА§a!
+§7[4/14] §2Announcer: §aToday, we are once again celebrating the heroic deeds of Siegfried!@§7[4/14] §2Ведущий: §aСегодня мы в очередной раз празднуем героические подвиги Зигфрида!
+§7[5/14] §2Announcer: §aAll of you, my fellow gavellians, have adventured far and wide to gather rare items across the province.@§7[5/14] §2Ведущий: §aВсе вы, мои собратья гавеллианцы, путешествовали повсюду, чтобы собрать редкие предметы по всей провинции.
+§7[6/14] §2Announcer: §aAnd yet, I cannot announce the winner...@§7[6/14] §2Ведущий: §aИ пока, я не могу объявить победителя...
+§7[7/14] §2Announcer: §a§lBECAUSE SIEGFRIED WILL!@§7[7/14] §2Ведущий: §a§lПОТОМУ ЧТО ЭТО СДЕЛАЕТ САМ ЗИГФРИД!
+§7[1/1] §2Siegfried Fan: §a§lSIEEEGGFRIEED!@§7[1/1] §2Фанат Зигфрида: §a§lЗИИИГФФФРИИИИДДД!
+§7[8/14] §2Siegfried: §a§lHello, Citizens of Gavel!@§7[8/14] §2Зигфрид: §a§lПривет, жители Гавела!
+§7[9/14] §2Siegfried: §aThank you all for participating in this fantastic scavenger hunt around Gavel!@§7[9/14] §2Зигфрид: §aСпасибо всем вам за участие в этой фантастической охоте за сокровищами по всему Гавелу!
+§7[10/14] §2Siegfried: §aThe winner of this hunt will have the privilege of going on a once-in-a-lifetime, fully authentic, adventure with me!@§7[10/14] §2Зигфрид: §aПобедитель этой охоты будет иметь привилегию отправиться со мной в совершенно подлинное приключение, которое случается раз в жизни!
+§7[11/14] §2Siegfried: §aNow, without further ado: I shall announce the winner!@§7[11/14] §2Зигфрид: §aА теперь, без лишних слов: я должен объявить победителя!
+§7[12/14] §2Siegfried: §aAnd the winner is...@§7[12/14] §2Зигфрид: §aИ нашим победителем становится...
+§7[2/6] §2Siegfried: §aToday, you'll be going with me on one of my glorious adventures.@§7[2/6] §2Зигфрид: §aСегодня ты отправишься со мной в одно из моих славных приключений.
+§7[3/6] §2Siegfried: §aAnd to get there, we'll ride in the great §bSiegfried Airship§a!@§7[3/6] §2Зигфрид: §aИ чтобы попасть туда, мы поедем на великом §bДирижабле Зигфрида§a!
+§7[4/6] §2Siegfried: §aIt's §bup at the airship docks§a - I'll teleport us there!@§7[4/6] §2Зигфрид: §aОн стоит §bнаверху в доках§a - я телепортирую нас туда!
+§7[5/6] §2Siegfried: §aⓜⓐⓖⓘⓒⓐⓛ ⓜⓐⓖⓘⓒⓚⓨ ⓜⓐⓖⓘⓒ ⓜⓐⓖⓘⓒⓢⓟⓔⓛⓛ, Teleport!@§7[5/6] §2Зигфрид: §aⓜⓐⓖⓘⓒⓐⓛ ⓜⓐⓖⓘⓒⓚⓨ ⓜⓐⓖⓘⓒ ⓜⓐⓖⓘⓒⓢⓟⓔⓛⓛ, Телепорт!
+§7[6/6] §2Siegfried: §a§lTELEPORT!@§7[6/6] §2Зигфрид: §a§lТЕЛЕПОРТ!
+§7[1/1] §2Siegfried: §aAnd away we go!@§7[1/1] §2Зигфрид: §aПоехали!
+§7[1/5] §2Siegfried: §aImpressed by my piloting skills? Dodging these islands isn't a challenge at all for the mighty Siegfried!@§7[1/5] §2Зигфрид: §aВпечатлен моими навыками пилотирования? Уворачивание от этих островов вовсе не является вызовом для могучего Зигфрида!
+§7[2/5] §2Siegfried: §aI rode an airship much like this one when I saved Ahmsord from the dragon.@§7[2/5] §2Зигфрид: §aЯ летал на дирижабле, очень похожем на этот, когда спас Амсорд от дракона.
+§7[3/5] §2Siegfried: §aRight now we're heading to a cave on the far east of the region.@§7[3/5] §2Зигфрид: §aПрямо сейчас мы направляемся в далекую пещеру на востоке региона.
+§7[4/5] §2Siegfried: §aWe'll have to navigate its treacherous corridors and defeat terrible beasts to get to the treasure at the end.@§7[4/5] §2Зигфрид: §aНам придется пройти по его коварным коридорам и победить ужасных монстров, чтобы добраться до сокровища в конце.
+§7[5/5] §2Siegfried: §aWhy don't you go get my map from the upper level of the airship, and we'll get ready for our adventure.@§7[5/5] §2Зигфрид: §aПочему бы тебе не взять мою карту на верхнем уровне дирижабля, и мы приготовимся к нашему приключению.
+§7[1/1] §2Siegfried: §aThe map's in the §bupper level of the airship§a. Ignore anything else you find there.@§7[1/1] §2Зигфрид: §aКарта находится на §bверхнем уровне дирижабля§a. Игнорируй все остальное, что ты найдешь там.
+§7[1/1] §2Siegfried's Pilot: §a*whistling*@§7[1/1] §2Пилот Зигфрида: §a*свистит*
+§7[1/4] §2Siegfried: §aHow much lon- Oh, you brought the map! Thanks.@§7[1/4] §2Зигфрид: §aКак долго- Ох, ты принес карту! Благодарю.
+§7[2/4] §2Siegfried: §aWe'll need to use this map to navigate the dangerous cave we're going to.@§7[2/4] §2Зигфрид: §aМы должны использовать эту карту для навигации по опасным пещерам, в которые мы собираемся.
+§7[3/4] §2Siegfried: §aHow did I get this? Well-er- I always prepare before my adventures!@§7[3/4] §2Зигфрид: §aКак я ее достал? Ну... э-эм ... я всегда готовлюсь к своим приключениям!
+§7[4/4] §2Siegfried: §aAnyway, we're about to land now - be careful not to fall off!@§7[4/4] §2Зигфрид: §aВ любом случае, мы приземляемся прямо сейчас - будь осторожен, чтобы не упасть!
+§7[1/2] §2Siegfried: §aHere we are, the great Cave of Treasure Hoarding Evil Creatures!@§7[1/2] §2Зигфрид: §aМы на месте - великая Пещера Сокровищ Наполненная Злыми Существами!
+§7[2/2] §2Siegfried: §aSpeak to me when you're fully prepared for this dangerous adventure.@§7[2/2] §2Зигфрид: §aПоговори со мной, когда будешь полностью готов к этому опасному приключению.
+§7[1/3] §2Siegfried: §aThis cave is exceedingly dangerous, so make sure to follow my instructions.@§7[1/3] §2Зигфрид: §aЭта пещера чрезвычайно опасна, так что обязательно следуй моим инструкциям.
+§7[2/3] §2Siegfried: §aI've got decades of experience bravely adventuring in these caves, so I know what I'm doing.@§7[2/3] §2Зигфрид: §aУ меня есть десятилетний опыт храбрых приключений в этих пещерах, поэтому я знаю, что делаю.
+§7[1/5] §2Siegfried: §aI adventure in caves such as these often to get rid of the evil beasts dwelling within.@§7[1/5] §2Зигфрид: §aЯ часто хожу по таким пещерам, чтобы избавиться от злых монстров, обитающих внутри.
+§7[2/5] §2Siegfried: §aIf it wasn't for me defeating them before they could even--@§7[2/5] §2Зигфрид: §aЕсли бы я не победил их прежде, чем они смогли бы--
+§7[3/5] §2Siegfried: §aWoah, stop! This might look like a harmless decoration, but it's a §a§ltrap§a!@§7[3/5] §2Зигфрид: §aОго, стой! Это может показаться безобидной декорацией, но это §a§lловушка§a!
+§7[4/5] §2Siegfried: §aStay behind me, I'll open it with my magical spell. §a§lⓞⓟⓔⓝ!@§7[4/5] §2Зигфрид: §aСтой за мной, я открою ее своим магическим заклинанием. §a§lⓞⓟⓔⓝ!
+§7[5/5] §2Siegfried: §a§lAha! §aI'll protect you from the guardian, §byou deal with the rat§a!@§7[5/5] §2Зигфрид: §a§lАга! Я защищу тебя от стража, §bа ты займись крысой§a!
+§7[1/1] §2Siegfried: §aTake §a§lTHIS§a!@§7[1/1] §2Зигфрид: §a§lПолучай§a!
+§7[1/1] §2Siegfried: §a§oOw- §aI mean, hah! That was easier than swatting a fly for the mighty Siegfried!@§7[1/1] §2Зигфрид: §a§oАу- §aЯ имею в виду, ха! Это было легче, чем прихлопнуть муху для могучего Зигфрида!
+§7[1/5] §2Siegfried: §aSeems like we're done here! That must have been a very difficult fight for you.@§7[1/5] §2Зигфрид: §aПохоже, мы здесь закончили! Должно быть, это был очень трудный бой для тебя.
+§7[2/5] §2Siegfried: §aThe caves I adventure in are filled with terrifying beasts similar to those.@§7[2/5] §2Зигфрид: §aПещеры в которых я путешествую полны ужасающих монстров, похожих на этих.
+§7[3/5] §2Siegfried: §a§lWAIT! §aDon't move, that boulder is about to fall!@§7[3/5] §2Зигфрид: §a§lПОДОЖДИ! §aНе двигайся, этот камень вот-вот упадет!
+§7[4/5] §2Siegfried: §aWow, that was close! Of course, I saw that coming and had no risk at all.@§7[4/5] §2Зигфрид: §aВоу, это было близко! Конечно, я это предвидел и ничем не рисковал.
+§7[5/5] §2Siegfried: §aYou might say that we can't go further, as it's blocking our way. But §a§lI§a can fix that!@§7[5/5] §2Зигфрид: §aТы можешь сказать, что мы не можем идти дальше, так как это блокирует наш путь. Но §a§lЯ§a могу это исправить!
+§7[1/5] §2Siegfried: §aAnd no more boulder! Only one as powerful as I can do that.@§7[1/5] §2Зигфрид: §aИ больше никакого камня! Только такой могущественный, как я, мог это сделать.
+§7[2/5] §2Siegfried: §aAll we must do now is cross a perilous bridge over the §a§lEndless Chasm§a.@§7[2/5] §2Зигфрид: §aВсе, что мы должны сделать сейчас - это пересечь опасный мост через §a§lБесконечную Пропасть§a.
+§7[3/5] §2Siegfried: §a§oAa, why did- §aWoah, careful! It looks like the bridge §a§lfell§a.@§7[3/5] §2Зигфрид: §a§oХм, а почему- §aого, осторожно! Похоже, этот мост §a§lрухнул§a.
+§7[4/5] §2Siegfried: §aBut this is not such an obstacle as you might think, for §a§lI§a can, §a§ouh§a, jump over this chasm!@§7[4/5] §2Зигфрид: §aНо это не такое препятствие для §a§lменя§a, как ты мог бы подумать, потому что я могу, §a§oэ-эм§a, перепрыгнуть эту пропасть!
+§7[5/5] §2Siegfried: §aHere I go!@§7[5/5] §2Зигфрид: §aВперед!
+§7[1/1] §2???: §a§lWAIT!@§7[1/1] §2???: §a§lСТОЙ!
+§7[1/2] §2Siegfried: §a§oThe spell--@§7[1/2] §2Зигфрид: §a§oЗаклинани--
+§7[2/2] §2Siegfried: §a§lAAAAAAAAAAAAAH!@§7[2/2] §2Зигфрид: §a§lААААААААААААААААХ!
+§7[1/10] §2Siegfried: §a§lAAAAAAGH§a!!@§7[1/10] §2Зигфрид: §a§lААААААААААААААГХ§a!!
+§7[2/10] §2Siegfried: §aAaaaggggh my LEGS MY LEGS §a§lAAAGGH SO COLD!@§7[2/10] §2Зигфрид: §aАааауууччч мои НОГИ МОИ НОГИ §a§lАААГХ ТАК ХОЛОДНО!
+§7[3/10] §2Siegfried: §aSO COLD so PAINFUL...@§7[3/10] §2Зигфрид: §aТАК ХОЛОДНО так БОЛЬНО...
+§7[4/10] §2Siegfried: §aWhy couldn't I §a§lTHINK §awhen I signed that §a§lSTUPID CONTRACT§a that I'd end up here!?@§7[4/10] §2Зигфрид: §aПочему я не мог §a§lПОДУМАТЬ§a когда подписывал этот §a§lГЛУПЫЙ КОНТРАКТ§a что закончу свою жизнь здесь!?
+§7[5/10] §2Siegfried: §a...Well§a, this is it.@§7[5/10] §2Зигфрид: §a...Чтож, это так и есть.
+§7[6/10] §2Siegfried: §aThey aren't gonna come rescue us, you know. §bWe're on our own§a.@§7[6/10] §2Зигфрид: §aОни не собираются придти и спасти нас, знаешь ли. §bТеперь мы сами по себе§a.
+§7[7/10] §2Siegfried: §aWhy are you so calm? §a§lDON'T YOU SEE?!@§7[7/10] §2Зигфрид: §aПочему ты такой спокойный? §a§lТЫ РАЗВЕ НЕ ВИДИШЬ?!
+§7[8/10] §2Siegfried: §a§lWE'RE ON OUR OWN! §aThis is §a§lREAL§a now! No more conveniently weak guards, no more obvious traps, §a§lno more Siegfried§a!@§7[8/10] §2Зигфрид: §a§lТЕПЕРЬ МЫ САМИ ПО СЕБЕ! §aТеперь это §a§lРЕАЛЬНОСТЬ§a! Нет больше никаких удобных слабых стражей, нет очевидных ловушек, §a§lнет больше Зигфрида§a!
+§7[9/10] §2Siegfried: §aI.. I can't do this. We'll just starve here, in this cave... where nobody will ever find our bodies.@§7[9/10] §2Зигфрид: §aЯ... я не могу этого сделать. Мы просто умрем с голоду здесь, в этой пещере... где никто никогда не найдет наши тела.
+§7[10/10] §2Siegfried: §aStop looking at me! §bYou figure out how to get us out of here§a, I'm just a worthless §a§lactor§a! §bTell me if you find anything§a, I- I need a moment alone.@§7[10/10] §2Зигфрид: §aПерестань на меня глазеть! §bПридумай, как нас отсюда вытащить§a, я ведь всего лишь никчемный §a§lактер§a! §bСкажи мне, если найдешь что-нибудь§a, мн-мне нужно побыть одному.
+§7[1/1] §2Siegfried: §aYou found something? Ok, I'll.. follow you then.@§7[1/1] §2Зигфрид: §aТы что-то нашел? Ок, я... буду идти за тобой тогда.
+§7[1/1] §2Siegfried: §aWHAT WAS THAT SOUND?! A- are you sure we should go into there?@§7[1/1] §2Зигфрид: §aЧТО ЭТО БЫЛ ЗА ЗВУК?! Т- ты уверен что мы должны идти туда?
+§7[1/2] §2Siegfried: §aMY ARM! §a§lIT HIT MY ARM§a!@§7[1/2] §2Зигфрид: §aМОЯ РУКА! §a§lОН УДАРИЛ МОЮ РУКУ§a!
+§7[2/2] §2Siegfried: §a... I think I can manage.. OW!@§7[2/2] §2Зигфрид: §a... Думаю я справлюсь... АУЧ!
+§7[1/3] §2Siegfried: §aYou.. You got us out of there!@§7[1/3] §2Зигфрид: §aТы... Ты должен вытащить нас отсюда!
+§7[2/3] §2Siegfried: §aI didn't think we'd §a§oever§a find a way out of there...@§7[2/3] §2Зигфрид: §aНе думал, что мы §a§oкогда-нибудь§a найдем выход отсюда...
+§7[3/3] §2Siegfried: §a... Well, I guess we should keep going. M- §a§oMaybe there's a way out?@§7[3/3] §2Зигфрид: §a... Чтож, думаю нам надо продолжать идти. Мо- §a§oМожет это выход?
+§7[1/5] §2Siegfried: §aL- Look! There's plants and light up ahead! §a§lA WAY OUT!@§7[1/5] §2Зигфрид: §aС- Смотри! Там растения и свет наверху! §a§lНАШ ВЫХОД!
+§7[2/5] §2Siegfried: §aCome on, follow me!@§7[2/5] §2Зигфрид: §aДавай, иди за мной!
+§7[3/5] §2Siegfried: §a§lAAAH!@§7[3/5] §2Зигфрид: §a§lАААА!
+§7[4/5] §2Siegfried: §aW- What just happened?! I'm trapped in here!@§7[4/5] §2Зигфрид: §aЧ- Что произошло?! Я застрял здесь в ловушке!
+§7[5/5] §2Siegfried: §a... It's.. some sort of trap. I can feel the ground heating up...@§7[5/5] §2Зигфрид: §a... Это... какая-то необычная ловушка. Я чувствую, как земля нагревается...
+§7[1/1] §2Siegfried: §aW- Wait! Come back! Don't leave me here to die§a... §a§lHELP ME, PLEASE§a!@§7[1/1] §2Зигфрид: §aП-Подожди! Вернись! Не оставляй меня тут умирать... §a§lПОМОГИ МНЕ, ПОЖАЛУЙСТА§a!
+§7[1/1] §2Teleporter: §aTeleport Failed. §bBeacon must be enabled§a!@§7[1/1] §2Телепортер: §aТелепортация не удалась. §bМаяк должен быть включен§a!
+§7[1/1] §2Beacon: §aTeleport Activation Successful! §bExit teleporter is now active§a.@§7[1/1] §2Маяк: §aАктивация Телепорта успешна! §bТелепорт на выход активен§a.
+§7[1/1] §2Teleporter: §aTeleport Successful!@§7[1/1] §2Телепортер: §aТелепорт успешен!
+§7[1/5] §2Siegfried: §aHello there, human! It is I, §a§lSiegfried§a! You must have just missed how I expertly ended the threat of this monster-ridden cave!@§7[1/5] §2Зигфрид: §aПривет, человек! Это же я, §a§lЗигфрид§a! Ты должно быть только что пропустил, как я мастерски разобрался с этой кишащей чудовищами пещерой!
+§7[3/5] §2Siegfried: §aOf course, I got out easily using my spells and great knowledge of caves! Well, I must be off now. Maybe we may meet again if you win the next scavenger hunt!@§7[3/5] §2Зигфрид: §aКонечно, я легко выбрался, используя свои заклинания и отличное знание пещер! Ну что ж, мне пора. Может быть, мы еще встретимся, если ты выиграешь следующую охоту за сокровищами!
+§7[4/5] §2???: §aAs compensation for your unfortunate accident, Siegfried will return you the emeralds spent on purchasing scavenger hunt items.@§7[4/5] §2???: §aВ качестве компенсации за ваш несчастный случай Зигфрид вернет вам эмеральды, потраченные на покупку предметов для охоты за сокровищами.
+§7[5/5] §2???: §aThat should amount to... 5 Liquid Emeralds. We apologize for the difficulties you encountered during your adventure with Siegfried!@§7[5/5] §2???: §aЭто должно составить... 5 жидких эмеральдов. Мы приносим извинения за трудности, с которыми вы столкнулись во время вашего приключения с Зигфридом!
+§7[1/1] §2Siegfried: §aHere, follow me onto the airship!@§7[1/1] §2Зигфрид: §aСюда, следуй за мной к дирижаблю!
+§7[1/1] §2Scavenger Hunt Participant: §aI spent so much money on a Siegfried mask, but it was worth every emerald. There's no way I can lose the scavenger hunt with this!@§7[1/1] §2Участник Охоты за Сокровищами: §aЯ потратил столько денег на маску Зигфрида, но она стоила каждого эмеральда. Я ни за что не проиграю эту охоту за сокровищами!
+§7[1/1] §2Scavenger Hunt Collector: §aCome back next month, maybe you'll win again! Who knows what glorious adventure Siegfried will take the next winner on?@§7[1/1] §2Организатор Охоты за Сокровищами: §aПриходи в следующем месяце, может быть, ты снова выиграешь! Кто знает, в какое славное приключение отправится Зигфрид со следующим победителем?
+§7[1/1] §2Scavenger Hunt Participant: §aHow could I have lost? How?! AND they didn't give the mask back, too! ... Maybe next time, I guess...@§7[1/1] §2Участник Охоты за Сокровищами: §aКак я мог проиграть? Как?! И маску они тоже не вернули! ... Может быть, в следующий раз...
+§7[1/1] §2Excited Fan: §aHmm... If everyone else who competes is below §blevel 99§aI'm certain to win the contest!@§7[1/1] §2Взволнованный Фанат: §aХмм... Если все остальные участники будут ниже §b99 уровня§a, я обязательно выиграю конкурс!
+§7[1/1] §2Excited Fan: §aHmm... If everyone else who competes is below §blevel 99§a, I'm certain to win the contest!@§7[1/1] §2Взволнованный Фанат: §aХмм... Если все остальные участники будут ниже §b99 уровня§a, я обязательно выиграю конкурс!
+§7[1/6] §2Excited Fan: §aHmm... I might have just enough for one tier 3... Why are you standing there?@§7[1/6] §2Взволнованный Фанат: §aХмм... У меня может быть достаточно только для 3 уровня... Почему ты стоишь здесь?
+§7[2/6] §2Excited Fan: §aWhat all these people are here for? Don't tell me you don't know about the §bSiegfried contest.@§7[2/6] §2Взволнованный Фанат: §aЗачем все эти люди здесь? Только не говори мне, что ты ничего не знаешь о §bконкурсе Зигфрида.
+§7[3/6] §2Excited Fan: §aAre you SERIOUS?! It's the biggest thing happening since the last contest last month!@§7[3/6] §2Взволнованный Фанат: §aТы СЕРЬЕЗНО?! Это самое большое событие со времени последнего конкурса в прошлом месяце!
+§7[4/6] §2Excited Fan: §aWhoever wins the big scavenger hunt gets to go on an adventure with Siegfried himself.@§7[4/6] §2Взволнованный Фанат: §aТот, кто выиграет большую охоту за сокровищами, отправится в приключение с самим Зигфридом.
+§7[5/6] §2Excited Fan: §aThis year, I think I even have a good chance to win!@§7[5/6] §2Взволнованный Фанат: §aВ этом году, думаю у меня даже есть хороший шанс выиграть!
+§7[6/6] §2Excited Fan: §aHuh? Oh, you want §bthis ticket§a? No way, this one's mine. Go get your own §bat that little shop§a.@§7[6/6] §2Взволнованный Фанат: §aА? Ох, ты хочешь §bэтот билет§a? Ни в коем случае, он мой. Иди купи себе свой в этом §bмаленьком магазинчике§a.
+§7[2/6] §2Scavenger Hunt Collector: §aThis... Wow, all of them? Let me take a look at these...@§7[2/6] §2Организатор Охоты за Сокровищами: §aЭто... Ух ты, это они все? Позволь мне взглянуть на них...
+§7[1/1] §2Scavenger Hunt Collector: §aTickets for sale! Get your Siegfried Scavenger Hunt tickets here!@§7[1/1] §2Организатор Охоты за Сокровищами: §aПродажа билетов! Получите ваши билеты на охоту за сокровищами Зигфрида здесь!
+§7[1/1] §2Siegfried Agent: §aGet back to your seat! Audience members may not leave the seating area right now.@§7[1/1] §2Агент Зигфрида: §aВернись на свое место! Зрители не могут покинуть зону отдыха прямо сейчас.
+§7[1/2] §2Siegfried: §aHere we are, the great Cave of Treasure-Hoarding Evil Creatures!@§7[1/2] §2Зигфрид: §aМы на месте - великая Пещера Сокровищ Наполненная Злыми Существами!
+§7[1/1] §2Siegfried: §aLet me make sure it's safe before you go further!@§7[1/1] §2Зигфрид: §aПозволь мне убедиться, что это безопасно, прежде чем мы пойдем дальше!
+§7[1/1] §2Siegfried: §aHey, you can't go running off ahead like that!@§7[1/1] §2Зигфрид: §aЭй, ты не можешь так убегать вперед!
+§7[1/1] §2Siegfried: §aHey, you're going the wrong way! Get back here!@§7[1/1] §2Зигфрид: §aЭй, ты идешь не в ту сторону! Вернись сюда!
+§7[8/10] §2Siegfried: §a§lWE'RE ON OUR OWN! §aThis is §a§lREAL§a now! No coming back after 'dying', no more obvious traps, §a§lno more Siegfried§a! §bIf I die here, §b§lI DIE! No coming back!@§7[8/10] §2Зигфрид: §a§a§lТЕПЕРЬ МЫ САМИ ПО СЕБЕ! §aТеперь это §a§lРЕАЛЬНОСТЬ§a! Нет больше никаких удобных слабых стражей, возвращений после 'смерти', нет очевидных ловушек, §a§lнет больше Зигфрида§a! §bЕсли я умру здесь - §b§lЯ УМРУ! И не вернусь!
+§7[1/1] §2Siegfried: §aH- Hey, wait for me! L-let's work together here.@§7[1/1] §2Зигфрид: §aЭ- Эй, подожди меня! Д-давай работать тут вместе.
+§7[5/5] §2Siegfried: §a... It's... some sort of trap. I can feel the ground heating up!!@§7[5/5] §2Зигфрид: §a...Это... какая-то ловушка. Я чувствую, как земля нагревается!!
+§7[1/4] §2Siegfried: §a...What§a? Houses, and a well? All the way down here?@§7[1/4] §2Зигфрид: §a...Чего? Дома и колодец? Как они тут оказались?
+§7[2/4] §2Siegfried: §aIt's... empty. And the houses sure don't look like anyone's lived here for.. §a§ocenturies§a.@§7[2/4] §2Зигфрид: §aЗдесь... пусто. И дома, конечно, не выглядят так, как будто кто-то жил здесь в течение... §a§oстолетий§a.
+§7[3/4] §2Siegfried: §a§lOW! §aMY LEGS! I.. I need to sit down. I think I stepped the wrong way.@§7[3/4] §2Зигфрид: §a§lАУЧ! МОИ НОГИ! Я... мне нужно сесть. Мне кажется, я сделал неверный шаг.
+§7[4/4] §2Siegfried: §aI'll just.. rest here a bit. W- would you mind taking a §blook around for something we can eat§a? I can.. hardly move.@§7[4/4] §2Зигфрид: §aЯ просто...отдохну здесь немного. Т - ты не мог бы §bосмотреться вокруг в поисках чего-нибудь, что мы могли бы съесть§a? Я едва могу двигаться.
+§7[1/1] §2Siegfried: §aI'll rest here for a bit... could you §bget me something to eat around here§a?@§7[1/1] §2Зигфрид: §aЯ немного отдохну здесь... Не мог бы ты §bпринести мне что-нибудь поесть§a?
+§7[1/3] §2Siegfried: §aThis cave... it's unbelievable.@§7[1/3] §2Зигфрид: §aЭта пещера... это невероятно.
+§7[2/3] §2Siegfried: §aHow did these houses get here? Where did the... people go?@§7[2/3] §2Зигфрид: §aКак сюда попали эти дома? Куда эти... люди пропали?
+§7[1/5] §2Siegfried: §a... Was this a sandwich at some point?@§7[1/5] §2Зигфрид: §a...Был ли это бутерброд в какой-то момент?
+§7[2/5] §2Siegfried: §aIt barely has any resemblance to one.@§7[2/5] §2Зигфрид: §aОн едва ли имеет какое-либо сходство с одним.
+§7[3/5] §2Siegfried: §aWell... I doubt there's anything better around here. I- I'll take it.@§7[3/5] §2Зигфрид: §aХорошо... Сомневаюсь, что здесь есть что-то лучше. Я... я возьму его.
+§7[4/5] §2Siegfried: §a§lOW!! §aI think I broke my teeth! This is like eating §a§ostone§a!@§7[4/5] §2Зигфрид: §a§lОЙ!! Кажется, я сломал зубы! Это все равно что есть §a§oкамень§a!
+§7[5/5] §2Siegfried: §a... I th-§a§oow§a-ink I'm ready to- §a§oow§a- move on. §bLet's get go-§b§ooow§b-ing.@§7[5/5] §2Зигфрид: §a... Я ду-§a§oауч§a-маю я готов §a§oой§a- идти. §bВыдви-§b§oауч§b-гаемся.
+§7[1/4] §2Siegfried: §aYou know... my name is actually Gurix.@§7[1/4] §2Зигфрид: §aЗнаешь... на самом деле меня зовут Гурикс.
+§7[2/4] §2Gurix: §aSounds extremely Corkian, I know. They made me use Siegfried because it sounds less foreign, I suppose.@§7[2/4] §2Гурикс: §aЗвучит очень по-коркиански, знаю. Они заставили меня использовать имя Зигфрид, потому что это звучит менее по-иностранному, я полагаю.
+§7[3/4] §2Gurix: §aAAAH! Get away!@§7[3/4] §2Гурикс: §aААААХ! Прочь!
+§7[2/2] §2Gurix: §aI think... Maybe you can cut them down? I'll stay here, I think it's the safest place. §bI'll call for you if a spider webs me again§a.@§7[2/2] §2Гурикс: §aДумаю... Может быть, ты сумеешь их срубить? Я останусь здесь, думаю, это самое безопасное место. §bПозову тебя, если паук снова меня опутает§a.
+§7[1/1] §2Gurix: §aT- Thank you! I think §bthe spiders might come back soon§a, I'll call for you again if they do.@§7[1/1] §2Гурикс: §aС-cпасибо! думаю, §bчто пауки скоро вернутся§a, и я снова позову тебя, если они вернутся.
+§7[1/2] §2Gurix: §aYou did it! The web fell!@§7[1/2] §2Гурикс: §aТы сделал это! Паутина срублена!
+§7[2/2] §2Gurix: §a§lLet's head onwards, I don't want to deal with any more spiders.@§7[2/2] §2Гурикс: §a§lПойдем дальше, я не хочу больше иметь дело с пауками.
+§7[1/1] §2Gurix: §aHey, wait up! Thanks for saving me there.@§7[1/1] §2Гурикс: §aЭй, подожди! Спасибо, что спас меня там.
+§7[1/2] §2Gurix: §aHm.. I'll bet you an emerald these tiles are §btrapped§a.@§7[1/2] §2Гурикс: §aХм ... Ставлю эмеральд, что эти плиты - §bловушка§a.
+§7[1/1] §2Gurix: §aI think §bthat tile's disarmed§a! Let's head onwards!@§7[1/1] §2Гурикс: §aДумаю §bэта плита деактивирована§a! Давай двигаться вперед!
+§7[1/7] §2Gurix: §aHmm.. I think I see how these work.@§7[1/7] §2Гурикс: §aХм... кажется, я понимаю, как это работает.
+§7[2/7] §2Gurix: §aSo if I §buse this button...@§7[2/7] §2Гурикс: §aЕсли я §bвоспользуюсь этой кнопкой...
+§7[3/7] §2Gurix: §bIt disarms the tile!§a Here, I'll disarm the next one!@§7[1/7] §2Гурикс: §bОна отключит плиту! §aВот, я отключю следующую!
+§7[4/7] §2Gurix: §aAnd now this one!@§7[4/7] §2Гурикс: §aА теперь еще и эту!
+§7[5/7] §2Gurix: §aAAH! That burns!@§7[5/7] §2Гурикс: §aААА! Как горячо!
+§7[6/7] §2Gurix: §aWell.. I think I see now. It's a §bbad idea to disarm one of the same type that you're standing on§a.@§7[6/7] §2Гурикс: §aХорошо.. Кажется, теперь я понимаю. Это §bплохая идея - отключать плиту, на которой ты стоишь§a.
+§7[7/7] §2Gurix: §aWell.. you try these out. §bTell me when to follow you further§a.@§7[7/7] §2Гурикс: §aХорошо.. Теперь ты попробуй. §bСкажи мне, когда следовать за тобой дальше§a.
+§7[1/1] §2Gurix: §aH- hey, wait! I- I'm still back here!@§7[1/1] §2Гурикс: §aЭ- Эй, подожди! Я-я все еще здесь!
+§7[1/1] §2Gurix: §aOk, §blead the way§a. Tell me when to stop following.@§7[1/1] §2Гурикс: §aЛадно, §bведи нас§a. Скажи мне, когда прекратить идти за тобой.
+§7[1/6] §2Gurix: §a... This temple is... Sort of fascinating, honestly.@§7[1/6] §2Гурикс: §a...Этот храм... Довольно увлекательный, честно.
+§7[2/6] §2Gurix: §aIt feels similar to the ruins back above, but... Better, §auh...better§a preserved. Maybe those faded over the millenia?@§7[2/6] §2Гурикс: §aЭто похоже на руины наверху, но они... Лучше... лучше сохранились. Может быть, они поблекли за тысячелетия?
+§7[3/6] §2Gurix: §a... Hmm. Clearly there's a path further in that direction.@§7[3/6] §2Гурикс: §a... Хмм. Ясно, что есть путь дальше в этом направлении.
+§7[1/1] §2Gurix: §aHEY!... Woah, that just teleported me back!@§7[1/1] §2Гурикс: §aЭЙ!... Ого, это просто телепортировало меня обратно!
+§7[6/6] §2Gurix: §aIt's... surrounded by those tiles. §bI don't think I'll live if another hits me§a... §bTell me when to follow you§a.@§7[6/6] §2Гурикс: §aОн... в окружении этих плит. §bНе думаю, что выживу, если еще раз меня ударит§a... §bСкажи мне, когда следовать за тобой§a.
+§7[1/1] §2Teleporter: §aTeleport Failed. §bBeacons must be enabled§a!@§7[1/1] §2Телепортер: §aТелепортация не удалась. §bМаяки должны быть включены§a!
+§7[1/1] §2Gurix: §aOk, §bI'll wait here§a. Tell me when to follow you again.@§7[1/1] §2Гурикс: §aЛадно, §bя подожду здесь§a. Скажи мне, когда снова последовать за тобой.
+§7[1/1] §2Beacon: §aTeleport Activation Failed: §bBeacon B must be used simultaneously §ato activate.@§7[1/1] §2Маяк: §aАктивация Телепорта Провалена: §bМаяк B необходимо использовать одновременно §aдля активации.
+§7[1/1] §2Gurix: §aAAH! IT'S BURNING ME!@§7[1/1] §2Гурикс: §aААХ! Я ГОРЮ!
+§7[1/1] §2Siegfried Agent: §aOnly participants in the Siegfried Scavenger Hunt can enter the theatre. Get out!@§7[1/1] §2Агент Зигфрида: §aВ театр могут войти только участники "Охоты за сокровищами Зигфрида". Убирайся!
+§7[1/1] §2Siegfried: §aHey, I told you to stay behind me! §a§lI§a have to enter the cave first!@§7[1/1] §2Зигфрид: §aЭй, я же велел тебе держаться позади меня! Сначала §a§lя§a должен войти в пещеру!
+§7[3/4] §2Siegfried: §a§lOW! §aMY LEGS! And my arms, too! E- Everything hurts so much.. I need to sit down. I think I turned my arm the wrong way.@§7[3/4] §2Зигфрид: §a§lАУЧ!§a МОИ НОГИ! И мои руки тоже!В- Все так болит.. Мне нужно присесть. Кажется, я провернул руку не в ту сторону.
+§7[1/1] §2Gurix: §aAAH! I- If that launched me any higher, I would've died!@§7[1/1] §2Гурикс: §aААХ! Я- если она запустила бы меня выше, я мог бы умереть!
+§7[1/1] §2Gurix: §aAAH! That burns! I- I wouldn't have made it if that was any stronger.@§7[1/1] §2Гурикс: §aААХ! Горячо! Я-я бы не справился, если бы она была посильнее.
+§7[1/1] §2Gurix: §aAAAAAAAAAAAAAAAH!@§7[1/1] §2Гурикс: §aААААААААААААААХХХ!
+§7[1/1] §2Siegfried: §aHey, careful there! Don't go jumping off the ship!@§7[1/1] §2Зигфрид: §aЭй, осторожнее там! Не прыгай с корабля!
+§7[1/5] §2Siegfried: §a... Is this the food you found?@§7[1/5] §2Зигфрид: §a... Это та еда, которую ты нашел?
+§7[2/5] §2Siegfried: §aI guess it's... the best that could be found here. You say you cooked it yourself?@§7[2/5] §2Зигфрид: §aНаверно это... лучшее, что можно было найти здесь. Говоришь, что сам его приготовил?
+§7[3/5] §2Siegfried: §aI'll give it a try, then. Doubt there's anything better around here.@§7[3/5] §2Зигфрид: §aТогда я попробую. Сомневаюсь, что здесь есть что-то лучше.
+§7[4/5] §2Siegfried: §aThese are... §a§oamazing§a!@§7[4/5] §2Зигфрид: §aЭто... §a§oпревосходно§a!
+§7[1/1] §2Gurix: §aWoah, I think the §bother tiles got activated§a when you disarmed that one!@§7[1/1] §2Гурикс: §aВоу, думаю §bдругие плиты активируются§a, когда ты деактивируешь одну!
+§7[1/1] §2Gurix: §aI've activated mine, let's see if this works!@§7[1/1] §2Гурикс: §aЯ активировал свою, посмотрим, сработает ли это!
+§7[1/1] §2Siegfried: §aHey, wait for me! Le- Let's work together here.@§7[1/1] §2Зигфрид: §aЭй, подожди меня! Давай держаться вместе.
+§7[1/5] §2Siegfried: §a... These look disgusting.@§7[1/5] §2Зигфрид: §a...Это выглядит отвратительно.
+§7[2/5] §2Siegfried: §aI guess... I'll eat it, if it's the only food around.@§7[2/5] §2Зигфрид: §aДумаю... Я съем это, если это единственная еда в округе.
+§7[3/5] §2Siegfried: §aLet's see... how do I even eat these?@§7[3/5] §2Зигфрид: §aДавай посмотрим... как вообще их есть?
+§7[4/5] §2Siegfried: §aUghh... These are §a§oawful§a.@§7[4/5] §2Зигфрид: §aУгх... Это §a§oужасно§a.
+§7[5/5] §2Siegfried: §aI don't... feel too good. I think.. §bI can move on though, as soon as you're ready§a.@§7[5/5] §2Зигфрид: §aЯ не... чувствую себя слишком хорошо. Думаю.. §bНо я могу двигаться дальше, как только ты будешь готов§a.
+§7[1/1] §2Beacon: §aTeleport Activation Failed: §bBeacon A must be used simultaneously §ato activate.@§7[1/1] §2Маяк: §aАктивация Телепорта Провалена: §bМаяк A необходимо использовать одновременно §aдля активации.
+§7[1/1] §2Gurix: §aUgh.. I don't think I should've eaten those spider eggs...@§7[1/1] §2Гурикс: §aУгх...Не думаю, что мне стоило есть эти паучьи яйца...
+§7[1/1] §2Gurix: §aHey, don't use the teleporter without me!@§7[1/1] §2Гурикс: §aЭй, не используй телепорт без меня!
+§7[2/4] §2Gurix: §aThese look fairly useful.@§7[2/4] §2Гурикс: §aОни выглядят довольно полезными.
+§7[3/4] §2Gurix: §aDid you make these with spider slime? That's... unpleasant to think about. They'll probably cushion the fall, though.@§7[3/4] §2Гурикс: §aТы сделал их из паучьей слизи? Это... неприятно думать об этом. Хотя, возможно, они смягчат падение.
+§7[2/3] §2Gurix: §aI.. I honestly didn't think the teleporter would still work. The ancient villagers' magic must have been really powerful.@§7[2/3] §2Гурикс: §aЯ ... честно говоря, не думал, что телепорт все еще будет работать. Магия древних жителей должно быть была действительно могущественной.
+§7[3/3] §2Gurix: §a.. Let's keep going, then. I think I can see something up ahead.@§7[3/3] §2Гурикс: §a.. Тогда давай продолжим. Кажется, я вижу что-то впереди.
+§7[1/6] §2Gurix: §aAnother town? Or another part of the same one? I'm not sure..@§7[1/6] §2Гурикс: §aДругой город? Или другая часть того же самого? Я не уверен..
+§7[2/6] §2Gurix: §aThis one even seems to have a forge and a tailor.. It was a full, proper village!@§7[2/6] §2Гурикс: §aУ этого, кажется, даже есть кузница и портной.. Это была полноценная, настоящая деревня!
+§7[3/6] §2Gurix: §aThat.. is that sunlight?@§7[3/6] §2Гурикс: §aЭто ... это солнечный свет?
+§7[5/6] §2Gurix: §aI think.. what if §bwe can use this geyser§a somehow? It looks dormant, but I feel like §bwe can activate it again§a.@§7[5/6] §2Гурикс: §aЯ думаю.. что, если мы сможем как-то §bиспользовать этот гейзер§a? Он выглядит спящим, но я чувствую, что мы можем §bактивировать его снова.
+§7[6/6] §2Gurix: §bYou take a look around, §aI'll be resting a little. I don't think I've ever walked this much in my life...@§7[5/6] §2Гурикс: §bТы осмотрись,§a а я немного отдохну. Не думаю, что я когда-либо так много ходил в своей жизни...
+§7[1/2] §2Gurix: §aWoah! The geyser's active!@§7[1/2] §2Гурикс: §aОго! Гейзеры активны!
+§7[2/2] §2Gurix: §aW-Wait.. that'll be quite a long fall after we get launched up. Can you try §bmaking some safety equipment§a, like a §bparachute§a or some §breally soft boots§a?@§7[2/2] §2Гурикс: §aП-подожди...Это будет довольно долгое падение после того, как мы взлетим. Можешь ли ты попробовать сделать какое-нибудь защитное снаряжение, например §bпарашют§a или §bмягкие ботинки§a?
+§7[1/4] §2Gurix: §aYou've already made something? Let me see.@§7[1/4] §2Гурикс: §aТы уже что-то сделал? Давай посмотрим.
+§7[2/4] §2Gurix: §aThis looks... usable? It's something, at least.@§7[2/4] §2Гурикс: §aЭто выглядит... пригодным? По крайней мере, это хоть что-то.
+§7[3/4] §2Gurix: §aProbably the best we'll get down here. Are you sure you don't need anything for yourself? No? Okay.@§7[3/4] §2Гурикс: §aНаверное, это лучшее, что мы здесь найдем. Ты уверен, что тебе ничего не нужно для себя? Нет? Хорошо.
+§7[4/4] §2Gurix: §aI can't wait to see the look on their faces when we get back. We've just saved the legacy of Siegfried!@§7[4/4] §2Гурикс: §aНе могу дождаться, чтобы увидеть выражение их лиц, когда мы вернемся. Мы только что спасли наследие Зигфрида!
+§7[1/1] §2Gurix: §aWOAH! The parachute worked!@§7[1/1] §2Гурикс: §aОГО! Парашют сработал!
+§7[2/9] §2Siegfried: §aHello there! It is I, §a§lSiegfried§a, and I just stopped the threat that was this cave!@§7[2/9] §2Зигфрид: §aПривет! Это я, §a§lЗигфрид§a, и я только что остановил угрозу, которая была в этой пещере!
+§7[3/9] §2Siegfried: §aHah, that's a great costume you have there! Looks just like me!@§7[3/9] §2Зигфрид: §aХах, какой у тебя замечательный костюм! Очень похож на мой!
+§7[4/9] §2Gurix: §aWhat? I- I've been REPLACED?!@§7[4/9] §2Гурикс: §aЧто? М-меня ЗАМЕНИЛИ!?
+§7[5/9] §2Siegfried: §aHah, don't mind that jokester over there. He §a§odoes §ahave an impressive costume though!@§7[5/9] §2Зигфрид: §aХах, не обращай внимания на этого шутника. Хотя у него §a§oдействительно§a впечатляющий костюм!
+§7[6/9] §2Siegfried: §bLook over there§a! Those must be fireworks to celebrate my victory!@§7[5/9] §2Зигфрид: §bПосмотри туда§a! Должно быть, это фейерверк в честь моей победы!
+§7[7/9] §2Siegfried: §aWell, anyways! You had a really bad fall in that cave there. I carried you out myself, you must've had some wild hallucinations.@§7[7/9] §2Зигфрид: §aНу, в любом случае! Ты очень сильно упал в той пещере. Я сам вынес тебя на себе, должно быть, у тебя были какие-то дикие галлюцинации.
+§7[8/9] §2Siegfried: §aEven though it was your own mistake, I'll return you the emeralds you spent on the scavenger hunt. What was it, §3[5 Liquified Emeralds]§a?@§7[8/9] §2Зигфрид: §aДаже если это была твоя собственная ошибка, я верну тебе эмеральды, которые ты потратил на охоту за сокровищами. Сколько там было, §3[5 Жидких Эмеральдов]§a?
+§7[9/9] §2Siegfried: §aI must return to Ahmsord for the celebration now. Perhaps we will meet again at the next scavenger hunt!@§7[9/9] §2Зигфрид: §aТеперь я должен вернуться в Амсорд на праздник. Может быть, мы еще встретимся на следующей охоте за сокровищами!
+§7[1/1] §2Siegfried: §aLet's... not head further just yet..@§7[1/1] §2Зигфрид: §aДавай... пока не идти дальше..
+§7[1/1] §2Siegfried: §aYou sure took your time getting here! No matter.@§7[1/1] §2Зигфрид: §aТы конечно не торопился, добираясь сюда! Неважно.
+§7[1/1] §2???: §aHey, get off! This is §a§lSiegfried's §aairship!@§7[1/1] §2???: §aЭй, убирайся! Это §aдирижабль §a§lЗигфрида!
+§7[1/1] §2Event Airship Pilot: §aHuh? Hey buddy, did you hear something squeaking just then?@§7[1/1] §2Пилот Ивент Дирижабля: §aА? Эй, приятель, ты слышал только что, как что-то скрипело?
+§7[1/3] §2Scavenger Hunt Participant: §aOh, come on! Please, just give me a refund!@§7[1/3] §2Участник Охоты за Сокровищами: §aДа ладно вам! Пожалуйста, просто верните мне деньги!
+§7[2/3] §2Scavenger Hunt Participant: §aHow was I supposed to know when I bought it that I'd lose the competition, huh?@§7[2/3] §2Участник Охоты за Сокровищами: §aОткуда мне было знать, когда я ее покупал, что проиграю конкуренцию, а?
+§7[3/3] §2Scavenger Hunt Participant: §aWho cares that I don't have the mug?! I want my money back!@§7[3/3] §2Участник Охоты за Сокровищами: §aКого волнует, что у меня нет кружки?! Я хочу вернуть свои деньги!

@@ -1,0 +1,2 @@
+scoreboard.txt
+quest_stages.txt

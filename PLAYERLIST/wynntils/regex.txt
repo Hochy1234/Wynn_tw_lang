@@ -1,0 +1,2 @@
+§f  §lGlobal \[(.*)\]@§f  §l全域 [(r1)]
+([ ]+)§d§lTemporary Buffs@(r1)§d§l暫時性加成

@@ -1,0 +1,86 @@
+########################Tribal Sanctuary#######################
+§7[1/2] §2Tribe Zombie Chieftain: §aOutsiders! Kill the outsiders!@§7[1/2] §2Tribe Zombie Chieftain: §aЧужак! Убейте чужака!
+§7[2/2] §2Tribe Zombies: §aKill the outsiders!@§7[2/2]§2 Tribe Zombies: §aУбить чужака!
+
+#########################Bovine Barn############################
+§7[1/1] §2Durum Protector: §aYou will not be allowed to defile this sanctum of nature!@§7[1/1] §2Durum Protector: §aТебе не позволено осквернять это святилище природы!
+
+######################Arena of the Legends########################
+§7[1/2] §2Legend Trainers: §aAha, someone is arriving to test their might!@§7[1/2] §2Legend Trainers: §aАга, кто-то прибыл, чтобы проверить свою мощь! 
+§7[2/2] §2Grand Magus: §aIf you wish to take up your place among the legends, prove yourself! Defeat us!@§7[2/2] §2Grand Magus: §aЕсли ты хочешь занять свое место среди легенд, покажи себя! Победи нас!
+
+##########################Rotten Passage#########################
+§7[1/4] §2Haros: §aCome on, we've nearly broken through to Saint's Row! Detonate it already!@§7[1/4] §2Haros: §aДавайте, мы уже почти прорвались к кладбищу Saint's Row! Взорвите его уже!
+§7[2/4] §2Haros: §aTheir east side is undefended. We will overrun the town! Charon will regret banishing us all!@§7[2/4] §2Haros: §aИх восточная сторона не защищена. Мы захватим город! Charon пожалеет, что изгнал нас всех!
+§7[3/4] §2Haros: §aWHAT! A human?! How did they find out about our plans?!@§7[3/4] §2Haros: §aЧТО! Человек?! Как он узнал о наших планах?!
+§7[4/4] §2Haros: §aSoldiers! Destroy the interloper! We cannot let them keep us from our goal!@§7[4/4] §2Haros: §aСолдаты! Уничтожьте нарушителя! Мы не можем позволить ему помешать нашей цели!
+
+#############################Sunrise Canyon##################
+§7[1/2] §2Rymek Luke: §aI hope you know yer trespassin' on private property. Either you get on out of here right now or draw.@§7[1/2] §2Rymek Luke: §aНадеюсь, ты знаешь, что вторгся на частную собственность. Либо ты уходишь отсюда прямо сейчас, либо сдаешься. 
+§7[2/2] §2Rymek Luke: §aAnd if you draw... You ain't leaving this here canyon alive!@§7[2/2] §2Rymek Luke: §aИ если ты сдаешься... То все равно не покинешь этот каньон живым!
+
+###########################Geyser Pit###########################
+§7[1/2] §2Mining Mech TERA-4M: §aINTRUDER DETECTED. OBJECTIVE: REMOVE FOREIGN PRESENCE FROM MINING OPERATION.@§7[1/1] §2Mining Mech TERA-4M: §aНАРУШИТЕЛЬ ОБНАРУЖЕН. ЦЕЛЬ: ИСКЛЮЧИТЬ ЧУЖОЕ ПРИСУТСТВИЕ НА ГОРНОДОБЫВАЮЩИХ РАБОТАХ.
+
+###########################Wybel Altar######################
+§7[1/4] §2????: §aOh... Looks like you found me out. I had been expecting you not to find this place. Ah awell!@§7[1/4] §2????: §aОх... Похоже, ты меня нашел. Я ожидал, что ты не сможешь найти это место. Ну что ж!
+§7[2/4] §2????: §aYou know, I'll give you a chance to leave. Just turn around. We can just forget this ever happened.@§7[2/4] §2????: §aЗнаешь, я просто дам тебе шанс уйти. Просто развернись. Мы можем просто забыть об этом.
+§7[3/4] §2????: §aIf you come into my room, I won't hesitate to kill you. Are you really gonna throw away your life just to see me?@§7[3/4] §2????: §aЕсли ты войдешь в мою комнату, я без колебаний убью тебя. Ты правда собираешься расстаться со своей жизнью, чтобы увидеть меня?
+§7[4/4] §2????: §aThis is your last chance, I'm telling you. Turn right back around the way you came, or I can't be held responsible for what happens next.@§7[4/4] §2????: §aЭто твой последний шанс. Говорю же тебе. Поверни назад, откуда пришел, или я не отвечаю за то, что будет дальше.
+
+#############################Prison of Souls#########################
+§7[1/2] §2The Beast: §aEscape... so close... need power...@§7[1/2]§2 The Beast: §aПобег... так близко... нужна сила...
+§7[2/2] §2The Beast: §aMore power... you... T§a§kA§aKE YO§a§kU§aRS!@§7[2/2]§2 The Beast: §aБольше силы... ты... ЗА§a§kBRA§aТЬ ТВ§a§kO§aЮ!
+
+######################Plague Laboratory##########################
+§7[1/2]§2 Olux Plague Doctor:§a Hm? Aha, so the noises I heard were an uninvited guest rummaging about my laboratory...@§7[1/2]§2 Olux Plague Doctor:§a Хм? Ага, значит, шум, который я слышал, был незваным гостем, рывшимся в моей лаборатории...
+§7[2/2]§2 Olux Plague Doctor:§a Well, I do suppose it would be rude to hide the fruits of my study from you. Perhaps you will even provide just what I need to complete my next experiment!@§7[2/2]§2 Olux Plague Doctor:§a Что ж, полагаю, было бы невежливо скрывать от тебя плоды моего исследования. Возможно, ты даже дашь мне именно то, что нужно для завершения моего следующего эксперимента!
+
+###################Aerie of the Recluse#############################
+§7[1/2] §2Adamastor: §aWhy must you humans always try to intervene in matters that aren't your own?@§7[1/2] §2Adamastor: §aПочему вы, люди, всегда пытаетесь вмешаться не в свои дела? 
+§7[2/2] §2Adamastor: §aLeave, now... Or we will bring your death. And we will ensure that there will be no one to bring you back, either.@§7[2/2] §2Adamastor: §aУходи, сейчас же... Или мы заберем твою жизнь. И позаботимся о том, чтобы никто не смог тебе ее вернуть.
+
+########################Altar of Sanctification#########################
+§7[1/12] §2§kSkien§2: §a...@ 
+§7[2/12] §2§kSkien§2: §a... I... Who... W§a§khe§are am... Who are...§4you§a?@§7[2/12] §2§kSkien§2: §a... Я... Кто... Г§a§kd§aе я... Кто...§4ты§a?
+§7[3/12] §2§kSkien§2: §aYou are... §a§kYou §aare... I can feel §4magic§a from you... §4§kT§4he§4§ki§4r §amagic...@§7[3/12] §2§kSkien§2: §aТыы... §a§kEto §aты... Я чувствую §4магию§a от тебя... §4И§4§kh §aмагию...
+§7[4/12] §2§kSkien§2: §aBut you are h§a§ku§aman...@§7[4/12] §2§kSkien§2: §a§aНо ты ведь ч§a§kel§aовек...
+§7[5/12] §2§kSkien§2: §aTraitor...@§7[5/12] §2§kSkien§2: §aПредатель...
+§7[6/12] §2§kSkien§2: §4TRAITOR!!!@§7[6/12] §2§kSkien§2: §4ПРЕДАТЕЛЬ!!!
+§7[7/12] §2§kSkien§2: §4TRAITOR §c§kNO NO §4NO WE HAVE LOST §4§kWE A§4RE FALLEN I §4HAVE FAI§4§kLED@§7[7/12] §2§kSkien§2: §4ПРЕДАТЕЛЬ §c§kNET NET §4НЕТ МЫ ПРОИГРАЛИ §4§kMI §4ПАЛИ  Я §4НЕ СПРАВ§4§kILSA
+§7[8/12] §2§kSkien§2: §4TR§c§kAIT§4OR WHY YOU §4§lV§4§l§kILLAGER§4S DA§c§kMN§4ED MAGIC USERS §c§lNO N§c§l§kO NO I §4§lMUST K§4§l§kILL THE §4§lTRAITOR@§7[8/12] §2§kSkien§2: §4ПР§c§kEDAT§4ЕЛЬ ЗАЧЕМ §4§lЖ§4§l§kITEL§4И ЧЕР§c§kTO§4ВЫ ПОЛЬЗОВАТЕЛИ МАГИИ §c§lНЕТ НЕ§c§l§kT НЕТ Я §4§lДОЛЖЕН У§4§l§kBITA §4§lПРЕДАТЕЛЯ
+§7[9/12] §2§kSkien§2: §4§kMUST §c§lKILL §4THE T§4§kRAITOR@§7[9/12] §2§kSkien§2: §4§kDOLZEN §c§lУБИТЬ ПР§4§kEDATELA
+§7[10/12] §2§kSkien§2: §4T§4§kHE §4TRAI§4§kT§4OR MUST §4§l§oDIE@§7[10/12] §2§kSkien§2: §4ПРЕД§4§kA§4ТЕЛЬ ДОЛЖЕН §4§l§oУМЕРЕТЬ
+§7[11/12] §2§kSkien§2: §4DIE D§4§kI§4E DIE D§4§kIE@§7[11/12] §2§kSkien§2: §4УМРИ У§4§kMR§4И УМРИ У§4§kMRI
+§7[12/12] §2§kSkien§2: §4§lDIE D§4§l§kIE DIE DIE §4DI§4§kE DIE §c§l§oDIE §4§kDIE DIE DIE D§4I§4§kE DIE@§7[12/12] §2§kSkien§2: §4§lУМРИ У§4§l§kMRI UMRI UMRI §4УМ§4§kRI UMRI §c§l§oУМРИ §4§kUMRI UMRI UMRI U§4М§4§kRI UMRI
+
+#######################Challenge of the Blades#####################
+§7[1/1] §2Blade of Shade: §aAha...you'll§a be a very interesting quarry to catch, human...@§7[1/1] §2Blade of Shade: §aАга...Ты будешь очень интересной пойманной жертвой, человек...
+
+#######################Bottomless Pit#####################
+§7There's... nothing here?@§7Здесь... ничего нет?
+§7There has to be something down here, you can feel it watching you...@§7Здесь, внизу, должно быть что-то, ты чувствуешь как он наблюдает за тобой...
+§7You just took a huge fall, you're §cvulnerable, §7something's there but y§co§7u can'§ct see it §7where is it@§7Ты только что сильно упал, ты §cуязвим§7, что-то есть, но §cты§7 не видишь §cего, §7где он
+§cwhere is it §7whe§cre is it where is it §7you §cc§7a§cn'§7t §cfind it where is it you're going to §4die §cif you don't find it §4fi§cnd it §4FIND IT@§cгде он, §7гд§cе он, где он, где он§7, ты не §cмож§7е§cшь найти его, где он, §4ты умрешь§c, если не найдешь его, §4най§cдешь его, §4НАЙДЕШЬ ЕГО
+§4IT'S THERE §cYOU CAN SE§4E IT AND IT'S §4§lTOO STRONG §4YOU'RE GOING TO §4§lDIE AND THERE'S NO WAY OUT §cWHY DI§4D §cYOU §4COME DOWN HERE@§4ОН ТАМ §cТЫ МОЖЕШЬ ВИД§4ЕТЬ ЕГО И ОН §4§lСЛИШКОМ СИЛЕН §4ТЫ §4§lУМРЕШЬ И НЕТ НИКАКОГО ВЫХОДА §cПОЧЕМУ ТЫ §4СПУСТИЛСЯ СЮДА
+§4PANIC PA§4§lNIC PANIC P§4ANIC PANIC PAN§4§lIC@§4ПАНИКА §4§lПАНИКА ПА§4НИКА ПАНИКА ПАНИКА ПА§4§lНИКА
+§4§lNONONONONON§4ONONO§4§lNONO §4YOU §4§lCAN'T DO THIS@§4§lНЕТНЕТНЕТНЕТНЕТНЕТНЕТ§4НЕТНЕТ§4§lНЕТ §4ТЫ §4§lНЕ МОЖЕШЬ ЭТОГО СДЕЛАТЬ
+§4RUN AWAY §4§lBUT WHERE THERE'S NO PLACE TO@§4УБЕГАЙ §4§lНО КУДА ЗДЕСЬ НЕ КУДА БЕЖАТЬ
+§4§lCAN'T THINK STRAIGHT CAN'T CALM DOWN@§4§lНЕ МОГУ ЯСНО МЫСЛИТЬ НЕ МОГУ УСПОКОИТЬСЯ
+§4YOU HAVE TO STRU§4§lG§4GL§4§lE BUT IT WON'T BE ENOUGH@§4ТЫ ДОЛЖЕН БОР§4§lОТ§4ЬС§4§lЯ, НО ЭТОГО БУДЕТ НЕДОСТАТОЧНО
+§cSTOP PA§4NICKING YO§4§lU CAN'T STOP PANICKING YOU@§cПЕРЕСТАНЬ ПА§4НИКОВАТЬ ТЫ Н§4§lЕ МОЖЕШЬ ПЕРЕСТАТЬ ПАНИКОВАТЬ ТЫ
+§4§lCAN'T STOP PANICKING §4YOU CA§4§lN'T STOP PANICKING@§4§lНЕ МОГУ ПЕРЕСТАТЬ ПАНИКОВАТЬ §4ТЫ Н§4§lЕ МОЖЕШЬ ПЕРЕСТАТЬ ПАНИКОВАТЬ
+§4§lYOU CAN'T STOP PANICKING §4YOU CAN'T §4§lSTOP@§4§lТЫ НЕ МОЖЕШЬ ПЕРЕСТАТЬ ПАНИКОВАТЬ §4ТЫ НЕ МОЖЕШЬ О§4§lСТАНОВИТЬСЯ
+§4§lPANICKING YOU CAN'T §4STOP PANICKING §4§lYOU CAN'T@§4§lПАНИКОВАТЬ ТЫ НЕ МОЖЕШЬ §4ПЕРЕСТАТЬ ПАНИКОВАТЬ §4§lНЕ МОЖЕШЬ
+§4§lYOU CAN'T YOU CAN'T YOU CAN'T YOU CAN'T YOU CAN'T@§4§lТЫ НЕ МОЖЕШЬ ТЫ НЕ МОЖЕШЬ ТЫ НЕ МОЖЕШЬ ТЫ НЕ МОЖЕШЬ ТЫ НЕ МОЖЕШЬ ТЫ НЕ МОЖЕШЬ
+§cCAUGHT I§4T'S CAUGHT YOU IT'S §4§lCAUGHT YOU@§cПОЙМАЛ О§4Н ПОЙМАЛ ТЕБЯ ОН §4§lПОЙМАЛ ТЕБЯ
+§4WHAT ARE YOU DOI§4§lNG §4YOU NEED TO MOVE §4§lYOU CAN'T@§4ЧТО ТЫ ДЕЛА§4§lЕШЬ §4ТЕБЕ НУЖНО ДВИГАТЬСЯ Т§4§lЫ НЕ МОЖЕШЬ
+§4CAN'T MOVE YOUR BODY §4§lIT'S COMING FO§4R YOU GET OUT@§4НЕ МОГУ ПОШЕВЕЛИТЬ СВОИМ ТЕЛОМ §4§lОН ИДЕТ ЗА §4ТОБОЙ УБИРАЙСЯ
+§4§lYOU'RE CAUGHT YO§4U'RE TRAPPED §4§lNO §4WAY OUT@§4§lТЫ ПОЙМАН Т§4Ы В ЛОВУШКЕ §4§lНЕТ §4ВЫХОДА
+§4MOVE M§4§lOVE MOV§4E MOVE §4§lMOVE M§4OVE MOVE M§4§lOVE MOVE §4MOVE@§4ДВИГАЙСЯ ДВИГАЙСЯ ДВИГ§4§lАЙСЯ ДВИГАЙСЯ ДВ§4ИГАЙСЯ ДВИГАЙСЯ ДВИ§4§lГАЙСЯ §4ДВИГАЙСЯ
+§cIT'S EV§4ERYWH§cER§4E IT'S EVERYW§4§lHERE YOU L§4OOK@§cОН ПОВ§4СЮ§cД§4У ОН ВЕЗ§4§lДЕ КУДА ТЫ СМ§4ОТРИШЬ
+§4IT'S STARING AT §4§lYOU FROM EV§4ERY DIRECTI§4§lON YOU §4CAN FEEL ITS §4§lEYES@§4ОН СМОТРИТ НА §4§lТЕБЯ В КАЖ§4ДОМ НАПРАВ§4§lЛЕНИИ ТЫ §4ЧУВСТВУЕШЬ ЕГО §4§lВЗГЛЯД
+§4ITS §4§lEYES C§4AN FEEL §4§lYOU IT CA§4N FEEL YOU§4§lR MIND@§4ЕГО §4§lГЛАЗА ВИ§4ДЯТ §4§lТЕБЯ ОН ЧУВ§4СТВУЕТ ТВО§4§lЙ РАЗУМ
+§4WHY DID YO§4§lU COME DOWN HERE THE§4RE'S NOTHING BUT §4§lDEATH §4AND §4§lDEATH §4AND §4§lDEA§4TH@§4ЗАЧЕМ ТЫ§4§lПРИШЕЛ СЮДА ВНИЗ §4ЗДЕСЬ НЕТ НИЧЕГО КРОМЕ §4§lСМЕРТИ §4И §4§lСМЕРТИ §4И §4§lСМЕР§4ТИ
+§cYO§4U CAN'T SEE §4§lANYTHING §4IT'S GOING TO G§4§lET YOU §4YOU'RE VU§4§lLNERA§4BLE@§cТЫ §4НЕ МОЖЕШЬ НИЧЕГО §4§lВИДЕТЬ §4ОН ПОДБИРАЕТСЯ К Т§4§lЕБЕ §4ТЫ УЯЗ§4§lВИ§4М
+§4§lMOVE K§4EEP MOVING BUT W§4§lHERE CAN YOU GO THAT'S §4SAFE §4§lTHERE'S NO PLACE SAFE@§4§lДВИГАЙСЯ ПРО§4ДОЛЖАЙ ДВИГАТЬСЯ НО К§4§lУДА УЙТИ В §4БЕЗОПАСНОСТЬ §4§lЗДЕСЬ НЕТ БЕЗОПАСНОГО МЕСТА

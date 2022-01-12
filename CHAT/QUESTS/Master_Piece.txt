@@ -1,0 +1,35 @@
+§7[1/9] §2Caissop: §a...hm...mh§a!@§7[1/9] §2Кайзоп: §a...хм...мх§a!
+§7[2/9] §2Caissop: §aOh sorry, I didn't notice you. Did you want an autograph?@§7[2/9] §2Кайзоп: §aОу прости, я не заметил тебя. Ты хотел автограф?
+§7[3/9] §2Caissop: §aWait, no? Don't you know who I am?! It seems like you have no taste in art... I am Caissop, the legendary artist!@§7[3/9] §2Кайзоп: §aПогоди, нет? Ты не знаешь кто я?! Похоже, что у тебя нет вкуса в искусстве... Я Кайзоп, легендарный художник!
+§7[4/9] §2Caissop: §aThough, since you are not a fan... Perhaps you can help me? I am looking for a new assistant.@§7[4/9] §2Кайзоп: §aХотя, раз уж ты не фанат... Не мог бы ты помочь мне? Я ищу себе нового ассистента.
+§7[5/9] §2Caissop: §aExcellent... I need your help to find three legendary creatures that are hiding in caves around the swamp.@§7[5/9] §2Кайзоп: §aОтлично... Мне нужна твоя помощь, чтобы найти трех легендарных существ, которые прячутся в пещерах вокруг болота.
+§7[6/9] §2Caissop: §aI actually know their location, but unfortunately, I §aam...blind§a.@§7[6/9] §2Кайзоп: §aНа самом деле я знаю их местоположение, но к сожалению, я§a...слепой§a.
+§7[7/9] §2Caissop: §aFor me to do my work I need to imagine them! That's where you come in. I need you to find them and describe them to me!@§7[7/9] §2Кайзоп: §aЧтобы я делал свою работу, мне нужно их представить! И тут в дело вступаешь ты. Мне нужно, чтобы ты нашёл и описал их мне!
+§7[8/9] §2Caissop: §aWould you turn your back on a blind man?! I need you to give me an accurate description of them! Once you have found one, come back and describe it to me exactly!@§7[8/9] §2Кайзоп: §aТы бы отвернулся от слепого?! Мне нужно, чтобы ты дал мне их точное описание! Как только ты найдешь одного, возвращайся ко мне и детально опиши его!
+§7[9/9] §2Caissop: §aThe first cave is up a hill with §btall, thin-leafed flowers. §aThey smell §bpink §ato me, and of this I am certain.@§7[9/9] §2Кайзоп: §aПервая пещера находится на холме с §bвысокими, тонколистными цветами. §aОни для меня пахнут §bрозовым§a, и в этом я уверен.
+§7[1/7] §2Caissop: §aQuick! Describe it to me! Go on!@§7[1/7] §2Кайзоп: §aСкорее! Опиши его мне! Давай!
+§7[2/8] §2Caissop: §aBrown...big-nosed..§a. A Villager Cow, you say!?@§7[2/8] §2Кайзоп: §aКоричневый...большеносый..§a. Корова-житель говоришь!?
+§7[3/8] §2Caissop: §a...OH§a, YES! ......... INSPIRED.@§7[3/8] §2Кайзоп: §a...ОО§a, ДА! ......... ВДОХНОВЕНИЕ.
+§7[4/8] §2Caissop: §a...MH§a, NO, A LITTLE MORE RED!..... YES!@§7[4/8] §2Кайзоп: §a...ММ§a, НЕТ, НЕМНОГО БОЛЬШЕ КРАСНОГО!..... ДА!
+§7[5/8] §2Caissop: §aHaha! This is WONDERFUL! I'm not going to show it to you before it is finished!@§7[5/8] §2Кайзоп: §aХаха! Это ЧУДЕСНО! Я не собираюсь показывать тебе, пока не закончу!
+§7[6/8] §2Caissop: §aSavor the ideas! So now, I need you to go to the second cave...@§7[6/8] §2Кайзоп: §aНаслаждайся идеями! А пока, мне нужно, чтобы ты пошел во вторую пещеру...
+§7[7/8] §2Caissop: §bIt is down a road, with §bshort, round-cupped flowers. §aThose ones smell §borange §ato me!@§7[7/8] §2Кайзоп: §bОна вниз по дороге, с §bкороткими, округленными в виде чашки цветками. §aОни для меня пахнут §bоранжевым§a!
+§7[8/8] §2Caissop: §aHurry! I'll finish this animal while you are gone. OH, YES. MUY MACHO.@§7[8/8] §2Кайзоп: §aПоспеши! Я закончу это животное пока тебя не будет. О, ДА. МОЙ МАЧО.
+§7[1/7] §2Caissop: §aYou're here! Quick! Don't look at me, describe it!@§7[1/7] §2Кайзоп: §aТы тут! Быстро! Не смотри на меня - описывай!
+§7[2/7] §2Caissop: §aSnowy white, a large horn... A Unicorn Sheep, you say?!@§7[2/7] §2Кайзоп: §aСнежно-белая, с огромным рогом... Овца Единорог говоришь?!
+§7[3/7] §2Caissop: §a...OH§a YES, THE WOOL IS REAL... MORE SWIPING... OH YES, BIEN!@§7[3/7] §2Кайзоп: §aОХ ДА, ШЕРСТЬ КАК НАСТОЯЩАЯ... БОЛЬШЕ МАЗКОВ... ОХ, ДА ХОРОШО!
+§7[4/7] §2Caissop: §a... THIS IS UNIQUE, REMARKABLE, YES. SUPERNATURAL!@§7[4/7] §2Кайзоп: §a... ЭТО ВЕЛИКОЛЕПНО, УНИКАЛЬНО, ДАА. ОЧЕНЬ РЕАЛИСТИЧНО!
+§7[5/7] §2Caissop: §aThe last creature! §bRed-smelling flowers, prickly thorns, §ahurry, mucho inspired!@§7[5/7] §2Кайзоп: §aПоследнее существо! §bКрасно-пахнущие цветы, колючие шипы, §aскорее, я полон вдохновения!
+§7[6/7] §2Caissop: §a...OH§a, NO, NO. YES! MORE COLOUR, MORE PAINT! I'M OUT OF RED!@§7[6/7] §2Кайзоп: §a...О§a, НЕТ, НЕТ. ДА! БОЛЬШЕ ЦВЕТА, БОЛЬШЕ КРАСКИ! У МЕНЯ ЗАКОНЧИЛСЯ КРАСНЫЙ!
+§7[7/7] §2Caissop: §aI'LL JUST USE MY BLOOD! OH! YES! §a...INSPIRED§a! REMARKABLE! Huh? Why are you still here? Go! I need that last description!@§7[7/7] §2Кайзоп: §aВОСПОЛЬЗУЮСЬ СВОЕЙ КРОВЬЮ! О! ДА! §a...ВДОХНОВЛЕНИЕ§a! ЗАМЕЧАТЕЛЬНО! А? Почему ты все ещё здесь? Иди! Мне нужно то последнее описание!
+§7[1/7] §2Caissop: §aYou're finally back! I just finished the last one. Go! Describe it!@§7[1/7] §2Кайзоп: §aТы наконец-то вернулся! Я как раз закончил предыдущего. Давай! Описывай его!
+§7[2/7] §2Caissop: §a...Oh§a, yes... YES. I LOVE IT.@§7[2/7] §2Кайзоп: §a...О§a, да... ДА. МНЕ НРАВИТСЯ ЭТО.
+§7[3/7] §2Caissop: §aIt's...A Pigasus! WHAT A NAME!@§7[3/7] §2Кайзоп: §aЭто...Пигасус! ЧТО ЗА ИМЯ!
+§7[4/7] §2Caissop: §a...OH§a YES, WINGS! EYES FROM HEAVEN! OH, YES.@§7[4/7] §2Кайзоп: §a...О§a ДА, КРЫЛЬЯ! ГЛАЗА ИЗ РАЯ! О, ДА.
+§7[5/7] §2Caissop: §aOch, perfect. The final touch and, done! You were so inspiring that I made two! One for you, and one for me!@§7[5/7] §2Кайзоп: §aУх, идеально. Последний штрих и, готово! Ты так меня вдохновил, что я сделал две копии! Одна для меня, и одна для тебя!
+§7[6/7] §2Caissop: §aYou might want to hold onto that, big-town upper class Villagers pay through the roof for Caissop's work!@§7[6/7] §2Кайзоп: §aЯ бы посоветовал оставить ее себе, жители высшего класса в больших городах платят огромную сумму за работу Кайзопа!
+§7[7/7] §2Caissop: §aThank you for your assistance, what a rush! Good luck on your Gavel adventure!@§7[7/7] §2Кайзоп: §aСпасибо тебе за помощь, какой кайф! Удачи тебе в твоих приключениях в Гавеле!
+
+§7[1/1] §2Caissop: §aLook in your quest book! I wrote the locations of the legendary creatures.@§7[1/1] §2Кайзоп: §aЗагляни в свою квестовую книгу! Я написал места расположения легендарных существ.
+§7[1/1] §2Caissop: §aSoon Gavel will open a museum for my art...@§7[1/1] §2Кайзоп: §aСкоро Гавел откроет музей моего искусства...
+§7[1/1] §2Caissop: §aOh, I'm so ready for my next piece! If you want to help me, come back when you're level 53...@§7[1/1] §2Кайзоп: §aОх, я так готов к своему следующему шедевру! Если хочешь мне помочь, возвращайся, когда достигнешь 53-го уровня...

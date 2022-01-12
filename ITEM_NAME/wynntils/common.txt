@@ -1,0 +1,197 @@
+§l§6[>] Select This Character@§l§6[>] Выбрать Этого Персонажа
+§6§lDiscoveries@§6§lОткрытия
+§b§lQuests@§b§lКвесты
+§b§lSecret Discoveries@§b§lСекретные Открытия
+§f§lMini-Quests@§f§lМини-Квесты
+§cPotion of Healing§4 [1/3]À@§cЗелье Лечения §4 [1/3]
+§cPotion of Healing§4 [1/3]@§cЗелье Лечения §4 [1/3]
+§cPotion of Healing§4 [2/3]@§cЗелье Лечения §4 [2/3]
+§cPotion of Healing§4 [2/3]À@§cЗелье Лечения §4 [2/3]
+§cPotion of Healing§4 [3/3]À@§cЗелье Лечения §4 [3/3]
+§cPotion of Healing§4 [3/3]@§cЗелье Лечения §4 [3/3]
+§l§a[+] Create a new character@§l§a[+] Создать нового персонажа
+§cDeleting...@§cУдаление...
+§fBrown HorseÀ@§fКоричневая Лошадь
+§fBrown Horse@§fКоричневая Лошадь
+§fBlack HorseÀ@§fЧерная Лошадь
+§fBlack Horse@§fЧерная Лошадь
+§fChestnut HorseÀ@§fКаштановая Лошадь
+§fChestnut Horse@§fКаштановая Лошадь
+§fWhite HorseÀ@§fБелая Лошадь
+§fWhite Horse@§fБелая Лошадь
+§aEmerald@§aЭмеральд
+§aEmerald Block@§aБлок Эмеральдов
+§aLiquid Emerald@§aЖидкий Эмеральд
+§bDialogue History@§bИстория Диалогов
+
+##############################UNIDENTIFIED ITEMS##############################
+§eUnidentified Wand@§eНеидентифицированный Посох
+§dUnidentified Wand@§dНеидентифицированный Посох
+§bUnidentified Wand@§bНеидентифицированный Посох
+§aUnidentified Wand@§aНеидентифицированный Посох
+§cUnidentified Wand@§cНеидентифицированный Посох
+§5Unidentified Wand@§5Неидентифицированный Посох
+§eUnidentified Dagger@§eНеидентифицированный Кинжал
+§dUnidentified Dagger@§dНеидентифицированный Кинжал
+§bUnidentified Dagger@§bНеидентифицированный Кинжал
+§aUnidentified Dagger@§aНеидентифицированный Кинжал
+§5Unidentified Dagger@§5Неидентифицированный Кинжал
+§eUnidentified Bow@§eНеидентифицированный Лук
+§dUnidentified Bow@§dНеидентифицированный Лук
+§bUnidentified Bow@§bНеидентифицированный Лук
+§aUnidentified Bow@§aНеидентифицированный Лук
+§cUnidentified Bow@§cНеидентифицированный Лук
+§5Unidentified Bow@§5Неидентифицированный Лук
+§eUnidentified Spear@§eНеидентифицированное Копье
+§dUnidentified Spear@§dНеидентифицированное Копье
+§bUnidentified Spear@§bНеидентифицированное Копье
+§aUnidentified Spear@§aНеидентифицированное Копье
+§5Unidentified Spear@§5Неидентифицированное Копье
+§eUnidentified Helmet@§eНеидентифицированный Шлем
+§dUnidentified Helmet@§dНеидентифицированный Шлем
+§bUnidentified Helmet@§bНеидентифицированный Шлем
+§aUnidentified Helmet@§aНеидентифицированный Шлем
+§cUnidentified Helmet@§cНеидентифицированный Шлем
+§fUnidentified Helmet@§fНеидентифицированный Шлем
+§eUnidentified Chestplate@§eНеидентифицированный Нагрудник
+§dUnidentified Chestplate@§dНеидентифицированный Нагрудник
+§bUnidentified Chestplate@§bНеидентифицированный Нагрудник
+§aUnidentified Chestplate@§aНеидентифицированный Нагрудник
+§cUnidentified Chestplate@§cНеидентифицированный Нагрудник
+§5Unidentified Chestplate@§5Неидентифицированный Нагрудник
+§eUnidentified Leggings@§eНеидентифицированные Штаны
+§dUnidentified Leggings@§dНеидентифицированные Штаны
+§bUnidentified Leggings@§bНеидентифицированные Штаны
+§aUnidentified Leggings@§aНеидентифицированные Штаны
+§cUnidentified Leggings@§cНеидентифицированные Штаны
+§eUnidentified Boots@§eНеидентифицированные Ботинки
+§dUnidentified Boots@§dНеидентифицированные Ботинки
+§bUnidentified Boots@§bНеидентифицированные Ботинки
+§aUnidentified Boots@§aНеидентифицированные Ботинки
+§cUnidentified Boots@§cНеидентифицированные Ботинки
+§5Unidentified Boots@§5Неидентифицированные Ботинки
+§eUnidentified Ring@§eНеидентифицированное Кольцо
+§dUnidentified Ring@§dНеидентифицированное Кольцо
+§bUnidentified Ring@§bНеидентифицированное Кольцо
+§aUnidentified Ring@§aНеидентифицированное Кольцо
+§cUnidentified Ring@§cНеидентифицированное Кольцо
+§eUnidentified Bracelet@§eНеидентифицированный Браслет
+§dUnidentified Bracelet@§dНеидентифицированный Браслет
+§bUnidentified Bracelet@§bНеидентифицированный Браслет
+§aUnidentified Bracelet@§aНеидентифицированный Браслет
+§cUnidentified Bracelet@§cНеидентифицированный Браслет
+§eUnidentified Necklace@§eНеидентифицированный Амулет
+§dUnidentified Necklace@§dНеидентифицированный Амулет
+§bUnidentified Necklace@§bНеидентифицированный Амулет
+§aUnidentified Necklace@§aНеидентифицированный Амулет
+§cUnidentified Necklace@§cНеидентифицированный Амулет
+§dUnidentified Relik@§dНеидентифицированный Релик
+§eUnidentified Relik@§eНеидентифицированный Релик
+§bUnidentified Relik@§bНеидентифицированный Релик
+§5Unidentified Relik@§5Неидентифицированный Релик
+§cUnidentified Charm@§cНеидентифицированный Талисман
+
+###########################DISCOVERIES###########################
+§b§lRagni's Secret LibraryÀ@§b§lСекретная Библиотека РагниÀ
+§b§lA Hero's OriginÀ@§b§lПроисхождение ГерояÀ
+§b§lWatchmenÀ@§b§lХранителиÀ
+§b§lBak'al's Destruction 2À@§b§lРазрушения Бак'ала 2À
+§b§lBak'al's Destruction 3À@§b§lРазрушения Бак'ала 3À
+§b§lBeneath the RootsÀ@§b§lПод КорнямиÀ
+§b§lBoulder PitÀ@§b§lБулыжниковая ЯмаÀ
+§b§lTemple RuinÀ@§b§lРуины ХрамаÀ
+§b§lHistorical MalticÀ@§b§lИсторический МалтикÀ
+§b§lCrate CraneÀ@§b§lКран КонтейнерÀ
+§b§lMining OperationÀ@§b§lГорные РаботыÀ
+§b§lTotem PoleÀ@§b§lТотемный СтолбÀ
+§b§lQuicksandÀ@§b§lЗыбучий ПесокÀ
+§b§lTemple of SwordsÀ@§b§lХрам МечейÀ
+§b§lDesert Royal ResidenceÀ@§b§lКоролевская Пустынная РезиденцияÀ
+§b§lWrecking BallÀ@§b§lРазрушительный ШарÀ
+§b§lRymek ThiefÀ@§b§lРимек ВорÀ
+§b§lRuins of DetlasÀ@§b§lРуины ДетласаÀ
+§b§lBoulder BreakerÀ@§b§lВалун РазрушительÀ
+§b§lTimeless RuinÀ@§b§lВечные РуиныÀ
+§b§lLusuco's Secret LibraryÀ@§b§lСекретная Библиотека ЛусукоÀ
+§b§lWater of the PastÀ@§b§lВода ПрошлогоÀ
+§b§lBak'al's Destruction 1À@§b§lРазрушения Бак'ала 1À
+§b§lSomewhere In BetweenÀ@§b§lГде-то МеждуÀ
+§b§lWynn Plains MonumentÀ@§b§lМонумент Равнин ВиннÀ
+§b§lRelos's Secret LibraryÀ@§b§lСекретная Библиотека РелосÀ
+§b§lLost Avos CityÀ@§b§lПотерянный Авос ГородÀ
+§b§lNecklace ChamberÀ@§b§lКамера АмулетаÀ
+§b§lExplorer's Corruption StudyÀ@§b§lИсследование Изучения ПорчиÀ
+§b§lWolf TempleÀ@§b§lХрам ВолковÀ
+§b§lFrozen Cave HideoutÀ@§b§lЗамороженная Пещера-УбежищеÀ
+§b§lThe Final MomentsÀ@§b§lФинальные МоментыÀ
+§b§lNilrem's Sealed LetterÀ@§b§lЗапечатанное Письмо НилремаÀ
+§b§lThe Twains' DownfallÀ@§b§lПадение ТвейновÀ
+§b§lMining CessationÀ@§b§lПрекращение ДобычиÀ
+§b§lFate of the OlmÀ@§b§lСудьба ОлмовÀ
+§b§lThe Forest has EyesÀ@§b§lУ Леса Есть ГлазаÀ
+§b§lOtherworldly OccurrenceÀ@§b§lПотустороннее ЯвлениеÀ
+§b§lA Monument of HopeÀ@§b§lМонумент НадеждыÀ
+§b§lToxic BounceÀ@§b§lТоксичный ОтскокÀ
+§b§lSpace Between RealitiesÀ@§b§lПространство Между РеальностямиÀ
+§b§lSilent Expanse's SecretÀ@§b§lСекрет Тихого ПространстваÀ
+§b§lTorn in TwainÀ@§b§lРаздор ТвейновÀ
+§b§lPottery WheelÀ@§b§lГончарный КругÀ
+§b§lA Deathly WarningÀ@§b§lСмертельное ПредупреждениеÀ
+§b§lThe Lone TelescopeÀ@§b§lОдинокий ТелескопÀ
+§b§lA Wynnic ExcavationÀ@§b§lВинник РаскопкиÀ
+§b§lFar From the RootsÀ@§b§lДалеко от Корней
+§b§lDecaying MountainsÀ@§b§lЗараженные Горы
+§b§lShrouded LivesÀ@§b§lОкутанные Жизнью
+§b§lEmpty VaultsÀ@§b§lПустые Хранилища
+§b§lHarmless WormsÀ@§b§lБезобидные Черви
+§b§lRelos' Secret LibraryÀ@§b§lСекретная Библиотека Релоса
+§b§lThe Grand ArchiveÀ@§b§lБольшой Архив
+§b§lThe Great BarrierÀ@§b§lВеликий Барьер
+§b§lOtherworldly OriginsÀ@§b§lПотустороннее Происхождение
+§b§lDesolate TemplesÀ@§b§lЗаброшенные Храмы
+§b§lThe Lonely AbyssÀ@§b§lОдинокая Бездна
+§b§lAhmsord's OriginsÀ@§b§lПроисхождение Амсорда
+§b§lAbandoned ExcavationsÀ@§b§lЗаброшенные Раскопки
+§b§lUnstable ExperimentsÀ@§b§lНестабильные Эксперименты
+§b§lMark of the MeteorsÀ@§b§lМетка Метеоров
+§b§lAt the Edge of DecayÀ@§b§lНа Краю Заражения
+§b§lLost FarmersÀ@§b§lПотерянные Фермеры
+§b§lTemple of LightÀ@§b§lХрам Света
+§b§lSealed AwayÀ@§b§lЗапечатанный
+§b§lTeachings of OldÀ@§b§lУчение Древних
+§b§lSpider RuinsÀ@§b§lПаучьи Руины
+§b§lLlevigar's Last HopeÀ@§b§lПоследняя Надежда Ллевигара
+§b§lShadowy DealingsÀ@§b§lТеневые Сделки
+§b§lThe Bane of GavelÀ@§b§lПроклятие Гавела
+§b§lParasite CocoonÀ@§b§lКокон Паразита
+§b§lThe Talor CryptÀ@§b§lСклеп Талора
+§b§lA Dividing ForceÀ@§b§lРазделяющая Сила
+§b§lHallowed GroundÀ@§b§lОсвященная Земля
+§b§lSummoner's FateÀ@§b§lСудьба Призывателя
+§b§lHeadless, Not HomelessÀ@§b§lБезголовый, но не Бездомный
+§b§lThe Heart of the DecayÀ@§b§lСердце Заражения
+§b§lRulers of the SkiesÀ@§b§lВластители Небес
+§b§lColossal RuinsÀ@§b§lКолоссальные Руины
+§b§lSubterranean CreationÀ@§b§lПодземное Творение
+§b§lThe Fallen ProtectorÀ@§b§lПавший Защитник
+§b§lCultural ArtefactÀ@§b§lКультурный Артефакт
+§b§lMaex Black MarketÀ@§b§lЧерный Рынок Маэкса
+§b§lSealed in IceÀ@§b§lЗапечатанный во Льду
+§b§lTomb of the FoundersÀ@§b§lМогила Основателей
+§b§lChained GoliathsÀ@§b§lПрикованные Голиафы
+§b§lThe Doguns' DefeatÀ@§b§lПоражение Догунов
+§b§lCanyon HousingÀ@§b§lДома в Каньоне
+§b§lCosmic CrystalsÀ@§b§lКосмические Кристаллы
+§b§lThanos ArmoryÀ@§b§lОружейная Таноса
+§b§lCracked CanyonÀ@§b§lТреснувший Каньон
+§b§lLoot of the LostÀ@§b§lДобыча Потерянных
+§b§lThe Broken ProtectorÀ@§b§lСокрушенный Защитник
+§b§lLight MushroomsÀ@§b§lСветлые Грибы
+§b§lMessengers From BeyondÀ@§b§lПосланцы Из-За Пределов
+§b§lBirth of EfilimÀ@§b§lРождение Эфелима
+§b§lFracture in RealityÀ@§b§lИзлом в Реальности
+§b§lNe du Valeos du EllachÀ@§b§lРожденный из Света и Тьмы
+§b§lThe Ancient OnesÀ@§b§lДревние
+§b§lGavel ExcavationÀ@§b§lРаскопки Гавела
+§b§lGylia Watch LibraryÀ@§b§lБиблиотека Стражей Гилия
+§b§lGylia's CataclysmÀ@§b§lКатаклизм Гилия

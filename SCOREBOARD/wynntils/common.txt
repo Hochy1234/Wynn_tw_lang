@@ -1,0 +1,8 @@
+§c§lDaily Objective:@§c§l每日任務:
+§e★ §c§lDaily Objective:@§e★ §c§l每日任務:
+§a§lObjectives:@§a§l任務:
+§c- §7Trade 24² with@§c- §7與 24² 交易 
+§c- §7All done@§c- §7全部完成
+§6§lTracked Quest:@§6§l任務追蹤器:
+§dFollow your compass@§d跟著你的羅盤
+§dto reach that location@§d到達那個位置

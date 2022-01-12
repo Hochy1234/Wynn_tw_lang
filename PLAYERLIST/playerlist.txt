@@ -1,0 +1,3 @@
+§7Make a party@§7創建一個隊伍
+§7by typing:@§7輸入:
+§7/party create@ 
