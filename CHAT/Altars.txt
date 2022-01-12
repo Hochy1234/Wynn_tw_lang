@@ -1,36 +1,36 @@
 ########################Tribal Sanctuary#######################
-§7[1/2] §2Tribe Zombie Chieftain: §aOutsiders! Kill the outsiders!@§7[1/2] §2Tribe Zombie Chieftain: §aЧужак! Убейте чужака!
-§7[2/2] §2Tribe Zombies: §aKill the outsiders!@§7[2/2]§2 Tribe Zombies: §aУбить чужака!
+§7[1/2] §2Tribe Zombie Chieftain: §aOutsiders! Kill the outsiders!@”7[1/2]”2Tribe Zombie Chieftain：“a入侵者！殺了入侵者！
+§7[2/2] §2Tribe Zombies: §aKill the outsiders!@§7[2/2]§2 Tribe Zombies: §a殺了入侵者!
 
 #########################Bovine Barn############################
-§7[1/1] §2Durum Protector: §aYou will not be allowed to defile this sanctum of nature!@§7[1/1] §2Durum Protector: §aТебе не позволено осквернять это святилище природы!
+§7[1/1] §2Durum Protector: §aYou will not be allowed to defile this sanctum of nature!@§7[1/1] §2Durum Protector: §a你不能汙染這個自然聖地!
 
 ######################Arena of the Legends########################
-§7[1/2] §2Legend Trainers: §aAha, someone is arriving to test their might!@§7[1/2] §2Legend Trainers: §aАга, кто-то прибыл, чтобы проверить свою мощь! 
-§7[2/2] §2Grand Magus: §aIf you wish to take up your place among the legends, prove yourself! Defeat us!@§7[2/2] §2Grand Magus: §aЕсли ты хочешь занять свое место среди легенд, покажи себя! Победи нас!
+§7[1/2] §2Legend Trainers: §aAha, someone is arriving to test their might!@§7[1/2] §2Legend Trainers: §a阿哈,有人來這裡測試自己的實力! 
+§7[2/2] §2Grand Magus: §aIf you wish to take up your place among the legends, prove yourself! Defeat us!@§7[2/2] §2Grand Magus: §a如果你想在傳奇中占有地位的話,那就證明自己!幹掉我們!
 
 ##########################Rotten Passage#########################
-§7[1/4] §2Haros: §aCome on, we've nearly broken through to Saint's Row! Detonate it already!@§7[1/4] §2Haros: §aДавайте, мы уже почти прорвались к кладбищу Saint's Row! Взорвите его уже!
-§7[2/4] §2Haros: §aTheir east side is undefended. We will overrun the town! Charon will regret banishing us all!@§7[2/4] §2Haros: §aИх восточная сторона не защищена. Мы захватим город! Charon пожалеет, что изгнал нас всех!
-§7[3/4] §2Haros: §aWHAT! A human?! How did they find out about our plans?!@§7[3/4] §2Haros: §aЧТО! Человек?! Как он узнал о наших планах?!
-§7[4/4] §2Haros: §aSoldiers! Destroy the interloper! We cannot let them keep us from our goal!@§7[4/4] §2Haros: §aСолдаты! Уничтожьте нарушителя! Мы не можем позволить ему помешать нашей цели!
+§7[1/4] §2Haros: §aCome on, we've nearly broken through to Saint's Row! Detonate it already!@§7[1/4] §2Haros: §a來吧, 我們已經破壞聖通道了! 已經爆炸了!
+§7[2/4] §2Haros: §aTheir east side is undefended. We will overrun the town! Charon will regret banishing us all!@§7[2/4] §2Haros: §a他們東邊根本沒人防守. 我們將占領這座城市 ! charno 會後悔驅逐我們所有人!
+§7[3/4] §2Haros: §aWHAT! A human?! How did they find out about our plans?!@§7[3/4] §2Haros: §a啊! 一個白癡?! 他是怎麼知道我們的計畫?!
+§7[4/4] §2Haros: §aSoldiers! Destroy the interloper! We cannot let them keep us from our goal!@§7[4/4] §2Haros: §a走狗! 消滅闖入者! 我們不能讓這個人破壞我們的計畫!
 
 #############################Sunrise Canyon##################
-§7[1/2] §2Rymek Luke: §aI hope you know yer trespassin' on private property. Either you get on out of here right now or draw.@§7[1/2] §2Rymek Luke: §aНадеюсь, ты знаешь, что вторгся на частную собственность. Либо ты уходишь отсюда прямо сейчас, либо сдаешься. 
+§7[1/2] §2Rymek Luke: §a我希望你知道你現在侵犯了私有財產. 滾出這裡或者是抽籤.@§7[1/2] §2Rymek Luke: §a如果你平手 你的身體會葬於此地
 §7[2/2] §2Rymek Luke: §aAnd if you draw... You ain't leaving this here canyon alive!@§7[2/2] §2Rymek Luke: §aИ если ты сдаешься... То все равно не покинешь этот каньон живым!
 
 ###########################Geyser Pit###########################
-§7[1/2] §2Mining Mech TERA-4M: §aINTRUDER DETECTED. OBJECTIVE: REMOVE FOREIGN PRESENCE FROM MINING OPERATION.@§7[1/1] §2Mining Mech TERA-4M: §aНАРУШИТЕЛЬ ОБНАРУЖЕН. ЦЕЛЬ: ИСКЛЮЧИТЬ ЧУЖОЕ ПРИСУТСТВИЕ НА ГОРНОДОБЫВАЮЩИХ РАБОТАХ.
+§7[1/2] §2Mining Mech TERA-4M: §aINTRUDER DETECTED. OBJECTIVE: REMOVE FOREIGN PRESENCE FROM MINING OPERATION.@§7[1/1] §2Mining Mech TERA-4M: §a檢測到入侵者 目標: 從採礦工作中移除這該死的入侵者
 
 ###########################Wybel Altar######################
-§7[1/4] §2????: §aOh... Looks like you found me out. I had been expecting you not to find this place. Ah awell!@§7[1/4] §2????: §aОх... Похоже, ты меня нашел. Я ожидал, что ты не сможешь найти это место. Ну что ж!
-§7[2/4] §2????: §aYou know, I'll give you a chance to leave. Just turn around. We can just forget this ever happened.@§7[2/4] §2????: §aЗнаешь, я просто дам тебе шанс уйти. Просто развернись. Мы можем просто забыть об этом.
-§7[3/4] §2????: §aIf you come into my room, I won't hesitate to kill you. Are you really gonna throw away your life just to see me?@§7[3/4] §2????: §aЕсли ты войдешь в мою комнату, я без колебаний убью тебя. Ты правда собираешься расстаться со своей жизнью, чтобы увидеть меня?
-§7[4/4] §2????: §aThis is your last chance, I'm telling you. Turn right back around the way you came, or I can't be held responsible for what happens next.@§7[4/4] §2????: §aЭто твой последний шанс. Говорю же тебе. Поверни назад, откуда пришел, или я не отвечаю за то, что будет дальше.
+§7[1/4] §2????: §aOh... Looks like you found me out. I had been expecting you not to find this place. Ah awell!@§7[1/4] §2????: §a歐... 看來你發現了我. 我一直希望你不會找到這個地方 阿!
+§7[2/4] §2????: §aYou know, I'll give you a chance to leave. Just turn around. We can just forget this ever happened.@§7[2/4] §2????: §a你懂得 我會給你一個轉身離開的機會 這樣我們就可以忘記一切所有都發生的事
+§7[3/4] §2????: §aIf you come into my room, I won't hesitate to kill you. Are you really gonna throw away your life just to see me?@§7[3/4] §2????: §a如果你進了我的房間 我會毫不猶豫的殺了你 你真的為了看見我 而放棄生命嗎?
+§7[4/4] §2????: §aThis is your last chance, I'm telling you. Turn right back around the way you came, or I can't be held responsible for what happens next.@§7[4/4] §2????: §a這是你最後的機會 我告訴你 沿者你來的路右轉 否則我不能對接下來發生的事情負責
 
 #############################Prison of Souls#########################
-§7[1/2] §2The Beast: §aEscape... so close... need power...@§7[1/2]§2 The Beast: §aПобег... так близко... нужна сила...
-§7[2/2] §2The Beast: §aMore power... you... T§a§kA§aKE YO§a§kU§aRS!@§7[2/2]§2 The Beast: §aБольше силы... ты... ЗА§a§kBRA§aТЬ ТВ§a§kO§aЮ!
+§7[1/2] §2The Beast: §aEscape... so close... need power...@§7[1/2]§2 The Beast: §a逃跑... 就差一點... 我需要力量...
+§7[2/2] §2The Beast: §aMore power... you... T§a§kA§aKE YO§a§kU§aRS!@§7[2/2]§2 The Beast: §a更多 力量... 你... ЗА§a§kBRA§aТЬ ТВ§a§kO§aЮ!
 
 ######################Plague Laboratory##########################
 §7[1/2]§2 Olux Plague Doctor:§a Hm? Aha, so the noises I heard were an uninvited guest rummaging about my laboratory...@§7[1/2]§2 Olux Plague Doctor:§a Хм? Ага, значит, шум, который я слышал, был незваным гостем, рывшимся в моей лаборатории...
